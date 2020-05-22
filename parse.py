@@ -1,5 +1,3 @@
-# Вынести последнее сканирование числом в отдельный файл
-
 import requests
 import termcolor
 import os
