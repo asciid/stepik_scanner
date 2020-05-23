@@ -6,7 +6,7 @@ Scanned courses are stored in `stepik_parse.txt`.
 To stop scanning just press `<Ctrl>+<C>`, and script will handle it.
 All following scans will be continued where the last one was stopped.
 
-# Dependencies
+## Dependencies
 Script uses following external modules:
 * `termcolor`
 * `requests`
