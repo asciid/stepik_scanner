@@ -10,6 +10,7 @@ All following scans will be continued where the last one was stopped.
 Script uses following external modules:
 * `termcolor`
 * `requests`
+
 So make sure you have them installed.
 
 Good luck!
