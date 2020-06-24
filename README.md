@@ -10,7 +10,8 @@ All following scans will be continued where the last one was stopped.
 Script uses following external modules:
 * `termcolor`
 * `requests`
+* `BeautifulSoup4`
 
-So make sure you have them installed.
+So make sure they are installed.
 
 Good luck!

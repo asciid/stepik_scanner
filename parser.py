@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
+
+from bs4 import BeautifulSoup
 from math import ceil, floor
-import requests
 import termcolor
+import requests
 import os
 
 def get_position(pose_file, parse_file):
@@ -27,29 +30,30 @@ def get_status(response):
 
 	# Stepik's server doesn't anwser 403 on forbidden page. It gives wrapped 403 page but response is 200.
 	# All existing cources have a header so the function is about to get this one.
-	# Some pages also respond 403 with no 403 in response's status. That's why I put 'ERR' in return instead of strict 403. 
+
+	soup = BeautifulSoup(response.text, 'html.parser')
 
 	if response.status_code == 200:
-		if response.text.find('<section class="course-promo__head">') != -1:
-			return 200
+		if soup.title.text == 'Stepik > 404':
+			return 404
+		elif soup.title.text == '\n  Stepik\n':
+			return 403
 		else:
-			return 'ERR'
+			return 200
 	else:
 		return 404
 
 def get_title(response):
 
-	# Function gets course's title. On the site's html it is caged in:
-	# <h1 class="course-promo__header">Title</h1>
+	# Function gets course's title. On the site's html it is stored in title:
 	# So we have to parse it by hands
 
-	mark_l = '<h1 class="course-promo__header">'
-	mark_r = '</h1>'
+	soup = BeautifulSoup(response.text, 'html.parser')
 
-	title_l = response.text.find(mark_l) + len(mark_l)
-	title_r = response.text.rfind(mark_r)
-
-	return(response.text[title_l:title_r])
+	if soup.title.text[3:-7] == 'Stepik':
+		return ""
+	else:
+		return soup.title.text[3:-10]
 
 URL = "https://stepik.org/course/"
 scan_file = "stepik_parse.txt"
@@ -74,10 +78,12 @@ while True:
 		link = URL + str(position)
 		r = requests.get(link)
 		s = get_status(r)
-		title = get_title(r)
+		
 		terminal = os.get_terminal_size()
 
 		if s == 200:
+			title = get_title(r)
+
 			status = termcolor.colored('GET', 'green')
 
 			# This code prints course's title in the center. Not a shitcode actually.
@@ -102,4 +108,3 @@ while True:
 		file.close()
 
 		exit(0)
-		
