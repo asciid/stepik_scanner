@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from math import ceil, floor
 import termcolor
 import requests
+import sys
 import os
 
 def get_position(pose_file, parse_file):
@@ -72,6 +73,8 @@ banner = """
 #############################################################################"""
 
 print(banner)
+print("\nВнимание! Если вы используете классическую cmd от Windows, возможен некорректный вывод в цвете.")
+print("Рекомендую использовать PowerShell или любой иной эмулятор терминала.\n")
 
 while True:
 	try:
@@ -107,4 +110,4 @@ while True:
 		posn.close()
 		file.close()
 
-		exit(0)
+		sys.exit()
