@@ -8,7 +8,8 @@ All following scans will be continued where the last one was stopped.
 
 ## Downloads
 
-* Win64 binary (24/04/2020) ==> [parser.exe](https://github.com/asciid/stepik_scanner/raw/bin/parser-win64-24062020.exe)
+* Windows (x64) binary (24/04/2020) ==> [parser.exe](https://github.com/asciid/stepik_scanner/raw/bin/parser-win64-24062020.exe)
+* Linux (amd64) binary (24/04/2020) ==> [parser.run](https://github.com/asciid/stepik_scanner/raw/bin/parser-linux_x64-24062020.run)
 
 ## Dependencies
 Script uses following external modules:
