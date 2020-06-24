@@ -29,6 +29,5 @@ Delete `.stepik_scan file` in the directory of a binary, restart it and never do
 
 Good luck!
 
-|shout out to the nullcomm|
-
-|                -- asciid|
+```|shout out to the nullcomm|
+|                -- asciid|```
