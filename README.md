@@ -28,6 +28,3 @@ It means that the last time you shut the programm down not properly. You are a d
 Delete `.stepik_scan file` in the directory of a binary, restart it and never do the same again.
 
 Good luck!
-
-```|shout out to the nullcomm|
-|                -- asciid|```
