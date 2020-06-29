@@ -104,13 +104,13 @@ while True:
 
 		position += 1
 		
-		posn.write('%d\n' % position)
 
 	except KeyboardInterrupt:
 
 		# <Ctrl> + <C> handler
 
 		termcolor.cprint('Завершение', 'red')
+		posn.write('%d\n' % position)
 
 		posn.close()
 		file.close()
