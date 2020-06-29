@@ -66,6 +66,7 @@ posn_file = ".stepik_scan"
 position = get_position(posn_file, scan_file)
 file = open(scan_file, 'a')
 posn = open(posn_file, 'w')
+system = os.name
 
 banner = """      _             _ _ 
   ___| |_ ___ _ __ (_) | __     _ __   __ _ _ __ ___  ___ _ __ _ __  _   _ 
@@ -75,10 +76,7 @@ banner = """      _             _ _
              |_|         |_____|_|                            |_|    |___/
 """
 
-if position == 1:
-	print(banner)
-	print("\nВнимание! Если вы используете классическую cmd от Windows, возможен некорректный вывод в цвете.")
-	print("Рекомендую использовать PowerShell или любой иной эмулятор терминала.\n")
+if position == 1: print(banner)
 
 while True:
 	try:
@@ -91,7 +89,8 @@ while True:
 		if s == 200:
 			title = get_title(r)
 
-			status = termcolor.colored('GET', 'green')
+			if system == 'nt': status = 'GET'
+			else: status = termcolor.colored('GET', 'green')
 
 			# This code prints course's title in the center. Not a shitcode actually.
 			spaces = (terminal.columns - len(link) - len(title) - 5) / 2
@@ -99,20 +98,20 @@ while True:
 
 			file.write(link + ' ' + title + ' ' + '\n')
 		else:
-			status = termcolor.colored(s, 'red')
+			if system == 'nt': status = s
+			else: status = termcolor.colored(s, 'red')
 			print(link.ljust(terminal.columns - 5), '[', status, ']', sep='')
 
 		position += 1
-		
 
 	except KeyboardInterrupt:
 
-		# <Ctrl> + <C> handler
+		if system == 'nt': exit = '\n[ Завершение работы ]'
+		else: exit = termcolor.colored('\n[ Завершение работы ]', 'red') 
 
-		termcolor.cprint('Завершение', 'red')
 		posn.write('%d\n' % position)
 
 		posn.close()
 		file.close()
 
-		sys.exit()
+		sys.exit(exit)
