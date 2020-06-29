@@ -16,11 +16,15 @@ def get_position(pose_file, parse_file):
 	if os.path.exists(pose_file):
 		f = open(pose_file, 'r')
 		content = f.readlines()
-		if content[0] in ('\n', '', ' '):
+		if len(content) == 0:
+			err = termcolor.colored('Поздравляю! Вы затёрли файл с позицией.\nСканируйте заново. Так держать!', 'red')
+			os.remove(pose_file)
+			sys.exit(err)
+		elif content[0] in ('\n', '', ' ',):
 			os.remove(parse_file)
 			position = 1
 		else:
-			position = int(content[-1])
+			position = int(content[-1][:-1])
 		f.close()
 	else:
 		position = 1
@@ -63,18 +67,18 @@ position = get_position(posn_file, scan_file)
 file = open(scan_file, 'a')
 posn = open(posn_file, 'w')
 
-banner = """
-#############################################################################
-# ___| |_ ___ _ __ (_) | __     _ __   __ _ _ __ ___  ___ _ __ _ __  _   _  #
-#/ __| __/ _ \ '_ \| | |/ /    | '_ \ / _` | '__/ __|/ _ \ '__| '_ \| | | | #
-#\__ \ ||  __/ |_) | |   <     | |_) | (_| | |  \__ \  __/ | _| |_) | |_| | #
-#|___/\__\___| .__/|_|_|\_\____| .__/ \__,_|_|  |___/\___|_|(_) .__/ \__, | #
-#            |_|         |_____|_|                            |_|    |___/  #
-#############################################################################"""
+banner = """      _             _ _ 
+  ___| |_ ___ _ __ (_) | __     _ __   __ _ _ __ ___  ___ _ __ _ __  _   _ 
+ / __| __/ _ \ '_ \| | |/ /    | '_ \ / _` | '__/ __|/ _ \ '__| '_ \| | | |
+ \__ \ ||  __/ |_) | |   <     | |_) | (_| | |  \__ \  __/ | _| |_) | |_| |
+ |___/\__\___| .__/|_|_|\_\____| .__/ \__,_|_|  |___/\___|_|(_) .__/ \__, |
+             |_|         |_____|_|                            |_|    |___/
+"""
 
-print(banner)
-print("\nВнимание! Если вы используете классическую cmd от Windows, возможен некорректный вывод в цвете.")
-print("Рекомендую использовать PowerShell или любой иной эмулятор терминала.\n")
+if position == 1:
+	print(banner)
+	print("\nВнимание! Если вы используете классическую cmd от Windows, возможен некорректный вывод в цвете.")
+	print("Рекомендую использовать PowerShell или любой иной эмулятор терминала.\n")
 
 while True:
 	try:
@@ -97,8 +101,10 @@ while True:
 		else:
 			status = termcolor.colored(s, 'red')
 			print(link.ljust(terminal.columns - 5), '[', status, ']', sep='')
-		
+
 		position += 1
+		
+		posn.write('%d\n' % position)
 
 	except KeyboardInterrupt:
 
@@ -106,7 +112,6 @@ while True:
 
 		termcolor.cprint('Завершение', 'red')
 
-		posn.write('%d\n' % position)
 		posn.close()
 		file.close()
 
