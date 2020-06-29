@@ -22,13 +22,3 @@ So make sure they are installed.
 **Dear Windows users**! Scanner was made for Linux users and in Linux and I made a Win binary just to let it be as the most of the users are Win-boys.
 
 **!!!PLEASE, CLOSE PARSER.PY WITH CTRL+C. CLOSING THE CONSOLE WINDOW WON'T LET A LAST POSITION TO BE SAVED!!!**
-
-And if you see something like:
-
-`Blah-blah-blah: get_position() -- index out of range`
-
-It means that the last time you shut the programm down not properly. You are a dick.
-
-Delete `.stepik_scan file` in the directory of a binary, restart it and never do the same again.
-
-Good luck!
