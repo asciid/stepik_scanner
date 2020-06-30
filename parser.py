@@ -19,7 +19,7 @@ def get_position():
 		f = open(posn_file, 'r')
 		content = f.readlines()
 		if len(content) == 0:
-			if os_name != 'nt':
+			if os.name != 'nt':
 				err = termcolor.colored('Поздравляю! Вы затёрли файл с позицией.\nСканируйте заново. Так держать!', 'red')
 			else:
 				err = 'Поздравляю! Вы затёрли файл с позицией.\nСканируйте заново. Так держать!'
