@@ -7,21 +7,27 @@ import requests
 import sys
 import os
 
-def get_position(pose_file, parse_file):
 
-	# Function gets current scan's position.
-	# Number is stored in .stepik_scan file in working directory of the script.
-	# If (accidently) file is empty, function deletes your scanned links because script has to point to scan.
+def get_position():
 
-	if os.path.exists(pose_file):
-		f = open(pose_file, 'r')
+	"""
+	Taking last scanning position from file.
+	Now with some errors handling!
+	"""
+
+	if os.path.exists(posn_file):
+		f = open(posn_file, 'r')
 		content = f.readlines()
 		if len(content) == 0:
-			err = termcolor.colored('Поздравляю! Вы затёрли файл с позицией.\nСканируйте заново. Так держать!', 'red')
-			os.remove(pose_file)
+			if os_name != 'nt':
+				err = termcolor.colored('Поздравляю! Вы затёрли файл с позицией.\nСканируйте заново. Так держать!', 'red')
+			else:
+				err = 'Поздравляю! Вы затёрли файл с позицией.\nСканируйте заново. Так держать!'
+			os.remove(posn_file)
+			os.remove(scan_file)
 			sys.exit(err)
 		elif content[0] in ('\n', '', ' ',):
-			os.remove(parse_file)
+			os.remove(scan_file)
 			position = 1
 		else:
 			position = int(content[-1][:-1])
@@ -33,8 +39,9 @@ def get_position(pose_file, parse_file):
 
 def get_status(response):
 
-	# Stepik's server doesn't anwser 403 on forbidden page. It gives wrapped 403 page but response is 200.
-	# All existing cources have a header so the function is about to get this one.
+	"""
+	Checking out whether it's 404, 403 or available course.
+	"""
 
 	soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -50,8 +57,9 @@ def get_status(response):
 
 def get_title(response):
 
-	# Function gets course's title. On the site's html it is stored in title:
-	# So we have to parse it by hands
+	"""
+	Getting a title from html's <title> tag.
+	"""
 
 	soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -61,13 +69,12 @@ def get_title(response):
 		return soup.title.text[3:-10]
 
 URL = "https://stepik.org/course/"
-scan_file = "stepik_parse.txt"
-posn_file = ".stepik_scan"  
-position = get_position(posn_file, scan_file)
+scan_file = "stepik_courses.txt"
+posn_file = ".position"  
+position = get_position()
 file = open(scan_file, 'a')
 posn = open(posn_file, 'w')
 system = os.name
-
 banner = """      _             _ _ 
   ___| |_ ___ _ __ (_) | __     _ __   __ _ _ __ ___  ___ _ __ _ __  _   _ 
  / __| __/ _ \ '_ \| | |/ /    | '_ \ / _` | '__/ __|/ _ \ '__| '_ \| | | |
