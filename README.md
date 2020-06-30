@@ -1,7 +1,7 @@
 # stepik_scanner
 A scanning script to get available courses on http://stepik.org.
 
-Scanned courses are stored in `stepik_parse.txt`.
+Scanned courses are stored in `stepik_courses.txt`.
 
 To stop scanning just press `<Ctrl>+<C>`, and script will handle it.
 All following scans will be continued where the last one was stopped.
