@@ -288,7 +288,7 @@
 
 1. [Математика](https://stepik.org/course/754)
 
-1. [Ф ](https://stepik.org/course/755)
+1. [Ф](https://stepik.org/course/755)
 
 1. [зоология](https://stepik.org/course/759)
 
@@ -338,7 +338,7 @@
 
 1. [Курс о шитье](https://stepik.org/course/812)
 
-1. [Курс вышивки крестиком ](https://stepik.org/course/813)
+1. [Курс вышивки крестиком](https://stepik.org/course/813)
 
 1. [Кулинария](https://stepik.org/course/814)
 
@@ -434,7 +434,7 @@
 
 1. [кулинария](https://stepik.org/course/875)
 
-1. [валяние из шерсти ](https://stepik.org/course/876)
+1. [валяние из шерсти](https://stepik.org/course/876)
 
 1. [кулинария](https://stepik.org/course/877)
 
@@ -446,7 +446,7 @@
 
 1. [витамины](https://stepik.org/course/885)
 
-1. [Национальные французские праздники ](https://stepik.org/course/886)
+1. [Национальные французские праздники](https://stepik.org/course/886)
 
 1. [Курс основы использования металлоискателя](https://stepik.org/course/887)
 
@@ -684,7 +684,7 @@
 
 1. [1](https://stepik.org/course/1154)
 
-1. [ЛогоМиры 1 ](https://stepik.org/course/1162)
+1. [ЛогоМиры 1](https://stepik.org/course/1162)
 
 1. [test](https://stepik.org/course/1164)
 
@@ -766,11 +766,11 @@
 
 1. [nbnbn](https://stepik.org/course/1248)
 
-1. [Русский язык: Олимпиады. ](https://stepik.org/course/1253)
+1. [Русский язык: Олимпиады.](https://stepik.org/course/1253)
 
 1. [test course [tag population]](https://stepik.org/course/1256)
 
-1. [IP alpha ](https://stepik.org/course/1257)
+1. [IP alpha](https://stepik.org/course/1257)
 
 1. [Introducere in Programare](https://stepik.org/course/1258)
 
@@ -786,7 +786,7 @@
 
 1. [ориентирование в образовании](https://stepik.org/course/1270)
 
-1. [Игротехника в образовании 21 века: курс для педагогов ](https://stepik.org/course/1271)
+1. [Игротехника в образовании 21 века: курс для педагогов](https://stepik.org/course/1271)
 
 1. [Java](https://stepik.org/course/1274)
 
@@ -836,7 +836,7 @@
 
 1. [Informatica II](https://stepik.org/course/1366)
 
-1. [Mindfulness ](https://stepik.org/course/1367)
+1. [Mindfulness](https://stepik.org/course/1367)
 
 1. [Решение задач по физике по теме "Закон Всемирного тяготения"](https://stepik.org/course/1368)
 
@@ -870,7 +870,7 @@
 
 1. [Proba](https://stepik.org/course/1396)
 
-1. [Testing ](https://stepik.org/course/1397)
+1. [Testing](https://stepik.org/course/1397)
 
 1. [test](https://stepik.org/course/1401)
 
@@ -952,7 +952,7 @@
 
 1. [Увлекательная математика](https://stepik.org/course/1496)
 
-1. [Python. Data type ](https://stepik.org/course/1497)
+1. [Python. Data type](https://stepik.org/course/1497)
 
 1. [exam test](https://stepik.org/course/1500)
 
@@ -1048,7 +1048,7 @@
 
 1. [Бормотанье кота Люмуса.](https://stepik.org/course/1593)
 
-1. [Природные зоны России ](https://stepik.org/course/1594)
+1. [Природные зоны России](https://stepik.org/course/1594)
 
 1. [Java. Functional programming](https://stepik.org/course/1595)
 
@@ -1184,13 +1184,13 @@
 
 1. [MEC105](https://stepik.org/course/1767)
 
-1. [BIOCLIMATIC ARCHITECTURE ](https://stepik.org/course/1771)
+1. [BIOCLIMATIC ARCHITECTURE](https://stepik.org/course/1771)
 
 1. [Informatik 1: Einf. in die Informationstechnik & Programmierung](https://stepik.org/course/1772)
 
 1. [111](https://stepik.org/course/1774)
 
-1. [Превратить английский в страсть ](https://stepik.org/course/1777)
+1. [Превратить английский в страсть](https://stepik.org/course/1777)
 
 1. [Операционные системы](https://stepik.org/course/1780)
 
@@ -1220,7 +1220,7 @@
 
 1. [jojo](https://stepik.org/course/1803)
 
-1. [Лексика. ](https://stepik.org/course/1805)
+1. [Лексика.](https://stepik.org/course/1805)
 
 1. [test](https://stepik.org/course/1806)
 
@@ -1282,7 +1282,7 @@
 
 1. [полёт к знаниям](https://stepik.org/course/1857)
 
-1. [В мире Литературы  ](https://stepik.org/course/1859)
+1. [В мире Литературы](https://stepik.org/course/1859)
 
 1. [Робот.Кумир.](https://stepik.org/course/1860)
 
@@ -1404,7 +1404,7 @@
 
 1. [Android development for mobile and wearable devices by Jibo He](https://stepik.org/course/1967)
 
-1. [Python Programming for Social Scientist ](https://stepik.org/course/1968)
+1. [Python Programming for Social Scientist](https://stepik.org/course/1968)
 
 1. [Introduction to Python for biologists](https://stepik.org/course/1969)
 
@@ -1448,7 +1448,7 @@
 
 1. [Программирование на Objective-C](https://stepik.org/course/2012)
 
-1. [First exercise ](https://stepik.org/course/2013)
+1. [First exercise](https://stepik.org/course/2013)
 
 1. [c++ prueba](https://stepik.org/course/2016)
 
@@ -1494,7 +1494,7 @@
 
 1. [Microprocessor systems](https://stepik.org/course/2080)
 
-1. [Как самостоятельно быстро и выгодно продать свой бизнес ](https://stepik.org/course/2081)
+1. [Как самостоятельно быстро и выгодно продать свой бизнес](https://stepik.org/course/2081)
 
 1. [INTD 121 Spring 2017](https://stepik.org/course/2083)
 
@@ -1534,7 +1534,7 @@
 
 1. [Олимпиада по программированию и информатике](https://stepik.org/course/2174)
 
-1. [Английский ](https://stepik.org/course/2175)
+1. [Английский](https://stepik.org/course/2175)
 
 1. [Algoritmos y Estructura de datos](https://stepik.org/course/2179)
 
@@ -1580,7 +1580,7 @@
 
 1. [JavaScript для начинающих](https://stepik.org/course/2223)
 
-1. [Основы ядерной физики на ЕГЭ. ](https://stepik.org/course/2225)
+1. [Основы ядерной физики на ЕГЭ.](https://stepik.org/course/2225)
 
 1. [test](https://stepik.org/course/2227)
 
@@ -1604,7 +1604,7 @@
 
 1. [Java. Collections](https://stepik.org/course/2262)
 
-1. [Модели смешанного обучения ](https://stepik.org/course/2274)
+1. [Модели смешанного обучения](https://stepik.org/course/2274)
 
 1. [fp](https://stepik.org/course/2279)
 
@@ -1640,7 +1640,7 @@
 
 1. [SPACE-МОДЕЛЬ построения взаимоотношений](https://stepik.org/course/2310)
 
-1. [Обеспечение проектной и предпринимательской деятельности ](https://stepik.org/course/2311)
+1. [Обеспечение проектной и предпринимательской деятельности](https://stepik.org/course/2311)
 
 1. [Подготовка к ЕГЭ по литературе](https://stepik.org/course/2313)
 
@@ -1822,7 +1822,7 @@
 
 1. [Теория математической обработки геодезических измерений](https://stepik.org/course/2617)
 
-1. [ОСНОВЫ Html & CSS  ](https://stepik.org/course/2621)
+1. [ОСНОВЫ Html & CSS](https://stepik.org/course/2621)
 
 1. [КАК ЗАРАБОТАТЬ ДЕНЕГ В SAMP](https://stepik.org/course/2625)
 
@@ -1966,7 +1966,7 @@
 
 1. [Beginner's Modules for Week 4 (EdX)](https://stepik.org/course/2848)
 
-1. [Адаптация организмов к условиям обитания ](https://stepik.org/course/2851)
+1. [Адаптация организмов к условиям обитания](https://stepik.org/course/2851)
 
 1. [Kotlin](https://stepik.org/course/2852)
 
@@ -1984,7 +1984,7 @@
 
 1. [Основи здоров'я 8 клас](https://stepik.org/course/2874)
 
-1. [Предлог. ](https://stepik.org/course/2877)
+1. [Предлог.](https://stepik.org/course/2877)
 
 1. [Понятие положительной десятичной дроби.](https://stepik.org/course/2879)
 
@@ -2246,7 +2246,7 @@
 
 1. [Algorithm](https://stepik.org/course/3290)
 
-1. [German language ](https://stepik.org/course/3297)
+1. [German language](https://stepik.org/course/3297)
 
 1. [Курс №1](https://stepik.org/course/3299)
 
@@ -2268,7 +2268,7 @@
 
 1. [Подготовка к ОГЭ (9 класс)](https://stepik.org/course/3326)
 
-1. [Ich lerne Deutsch - إش ليرن ديوتسش ](https://stepik.org/course/3330)
+1. [Ich lerne Deutsch - إش ليرن ديوتسش](https://stepik.org/course/3330)
 
 1. [APCS Java at Hinsdale South High School](https://stepik.org/course/3331)
 
@@ -2320,9 +2320,9 @@
 
 1. [ALOHA](https://stepik.org/course/3404)
 
-1. [История России ЕГЭ ](https://stepik.org/course/3406)
+1. [История России ЕГЭ](https://stepik.org/course/3406)
 
-1. [Жить в России: курс социально-правовой адаптации ](https://stepik.org/course/3410)
+1. [Жить в России: курс социально-правовой адаптации](https://stepik.org/course/3410)
 
 1. [Good Clinical Practice Biocup](https://stepik.org/course/3411)
 
@@ -2450,7 +2450,7 @@
 
 1. [CS:GO](https://stepik.org/course/3661)
 
-1. [Геозапросы в MongoDB ](https://stepik.org/course/3672)
+1. [Геозапросы в MongoDB](https://stepik.org/course/3672)
 
 1. [Курс Сени Еремеева](https://stepik.org/course/3673)
 
@@ -2512,7 +2512,7 @@
 
 1. [Робототехника](https://stepik.org/course/3773)
 
-1. [Программирование ](https://stepik.org/course/3775)
+1. [Программирование](https://stepik.org/course/3775)
 
 1. [1](https://stepik.org/course/3779)
 
@@ -2584,7 +2584,7 @@
 
 1. [DM625-2](https://stepik.org/course/3864)
 
-1. [Python ](https://stepik.org/course/3865)
+1. [Python](https://stepik.org/course/3865)
 
 1. [Learn Python](https://stepik.org/course/3867)
 
@@ -2732,7 +2732,7 @@
 
 1. [Data Structures](https://stepik.org/course/4076)
 
-1. [  интересна физика ](https://stepik.org/course/4078)
+1. [  интересна физика](https://stepik.org/course/4078)
 
 1. [Public Databases in Health and Disease](https://stepik.org/course/4082)
 
@@ -2808,7 +2808,7 @@
 
 1. [Логические задачи](https://stepik.org/course/4155)
 
-1. [Развитие ПУД в процессе изучения компьютерной графики ](https://stepik.org/course/4156)
+1. [Развитие ПУД в процессе изучения компьютерной графики](https://stepik.org/course/4156)
 
 1. [Программирование на С++ кадетский корпус (школа ИТ)](https://stepik.org/course/4161)
 
@@ -2840,7 +2840,7 @@
 
 1. [English+](https://stepik.org/course/4242)
 
-1. [6 класс НОД и НОК целых чисел ](https://stepik.org/course/4246)
+1. [6 класс НОД и НОК целых чисел](https://stepik.org/course/4246)
 
 1. [Учёба](https://stepik.org/course/4250)
 
@@ -2854,7 +2854,7 @@
 
 1. [LaunchCode's Discovery](https://stepik.org/course/4261)
 
-1. [ПРАКТИЧЕСКИЙ СИНТАКСИС РУССКОГО ЯЗЫКА КАК ИНОСТРАННОГО ](https://stepik.org/course/4265)
+1. [ПРАКТИЧЕСКИЙ СИНТАКСИС РУССКОГО ЯЗЫКА КАК ИНОСТРАННОГО](https://stepik.org/course/4265)
 
 1. [Numpytest](https://stepik.org/course/4266)
 
@@ -2866,9 +2866,9 @@
 
 1. [Основы логики](https://stepik.org/course/4270)
 
-1. [Трехмерное моделирование ](https://stepik.org/course/4271)
+1. [Трехмерное моделирование](https://stepik.org/course/4271)
 
-1. [ВФТШ Физика ](https://stepik.org/course/4278)
+1. [ВФТШ Физика](https://stepik.org/course/4278)
 
 1. [test](https://stepik.org/course/4282)
 
@@ -2878,7 +2878,7 @@
 
 1. [Інформаційні технології і технічні засоби корекційного навчання](https://stepik.org/course/4289)
 
-1. [Программирование на Python 7-9 классы ](https://stepik.org/course/4291)
+1. [Программирование на Python 7-9 классы](https://stepik.org/course/4291)
 
 1. [Voip at Speedflow](https://stepik.org/course/4294)
 
@@ -2976,7 +2976,7 @@
 
 1. [хз](https://stepik.org/course/4430)
 
-1. [Basic course for beginners "Learn English alphabet" ](https://stepik.org/course/4432)
+1. [Basic course for beginners "Learn English alphabet"](https://stepik.org/course/4432)
 
 1. [1](https://stepik.org/course/4438)
 
@@ -3066,7 +3066,7 @@
 
 1. [Олимпиадные логические задачи (2-5)](https://stepik.org/course/4561)
 
-1. [Murder of Old Man Steffy ](https://stepik.org/course/4562)
+1. [Murder of Old Man Steffy](https://stepik.org/course/4562)
 
 1. [VR-интенсив](https://stepik.org/course/4566)
 
@@ -3074,7 +3074,7 @@
 
 1. [Абуз знаний](https://stepik.org/course/4577)
 
-1. [Секреты писательского таланта ](https://stepik.org/course/4583)
+1. [Секреты писательского таланта](https://stepik.org/course/4583)
 
 1. [Впервые в России](https://stepik.org/course/4584)
 
@@ -3102,7 +3102,7 @@
 
 1. [Воспроизводство  точки самой себя. Представление  своего  кода.](https://stepik.org/course/4631)
 
-1. [KXTI CTF ](https://stepik.org/course/4633)
+1. [KXTI CTF](https://stepik.org/course/4633)
 
 1. [Как правильно перейти на вегетарианство](https://stepik.org/course/4636)
 
@@ -3340,7 +3340,7 @@
 
 1. [Линейная алгебра и геометрия. Часть 2: векторная алгебра](https://stepik.org/course/4940)
 
-1. [Contest ](https://stepik.org/course/4941)
+1. [Contest](https://stepik.org/course/4941)
 
 1. [тест приватного курса](https://stepik.org/course/4947)
 
@@ -3372,13 +3372,13 @@
 
 1. [Как пользоваться мышкой? Лекция 1](https://stepik.org/course/4969)
 
-1. [Проводи время с пользой ](https://stepik.org/course/4970)
+1. [Проводи время с пользой](https://stepik.org/course/4970)
 
 1. [Black Star Burger](https://stepik.org/course/4971)
 
 1. [Как стать успешным](https://stepik.org/course/4973)
 
-1. [Словотвір ](https://stepik.org/course/4977)
+1. [Словотвір](https://stepik.org/course/4977)
 
 1. [Вступ до літературознавства](https://stepik.org/course/4995)
 
@@ -3414,7 +3414,7 @@
 
 1. [Обучение HTML](https://stepik.org/course/5066)
 
-1. [WEB-ДИЗАЙН ](https://stepik.org/course/5082)
+1. [WEB-ДИЗАЙН](https://stepik.org/course/5082)
 
 1. [C++](https://stepik.org/course/5086)
 
@@ -3472,7 +3472,7 @@
 
 1. [с нуля](https://stepik.org/course/5180)
 
-1. [Информационные процессы ](https://stepik.org/course/5186)
+1. [Информационные процессы](https://stepik.org/course/5186)
 
 1. [Вдохновленные реджио](https://stepik.org/course/5190)
 
@@ -3554,7 +3554,7 @@
 
 1. [1-й тур Олимпиады "Инженерное 3D-моделирование" - 2018](https://stepik.org/course/5308)
 
-1. [Learn the basic of Kotlin for Android Development ](https://stepik.org/course/5332)
+1. [Learn the basic of Kotlin for Android Development](https://stepik.org/course/5332)
 
 1. [Английский язык для начальной школы](https://stepik.org/course/5335)
 
@@ -3562,7 +3562,7 @@
 
 1. [Неравенства](https://stepik.org/course/5352)
 
-1. [Урок литературного чтения по произведению А.П.Чехова "Мальчики" ](https://stepik.org/course/5353)
+1. [Урок литературного чтения по произведению А.П.Чехова "Мальчики"](https://stepik.org/course/5353)
 
 1. [Интерпретатор Python или ускорение вычислений.](https://stepik.org/course/5355)
 
@@ -3580,11 +3580,11 @@
 
 1. [Действия с положительными и отрицательными числами](https://stepik.org/course/5387)
 
-1. [Processos  tecnolologics na Industria ](https://stepik.org/course/5391)
+1. [Processos  tecnolologics na Industria](https://stepik.org/course/5391)
 
 1. [Кодирование и системы счисления](https://stepik.org/course/5398)
 
-1. [Элементы комбинаторики ](https://stepik.org/course/5406)
+1. [Элементы комбинаторики](https://stepik.org/course/5406)
 
 1. [Programación test](https://stepik.org/course/5407)
 
@@ -3646,7 +3646,7 @@
 
 1. [English Grammar in Use](https://stepik.org/course/5516)
 
-1. [Психология ](https://stepik.org/course/5521)
+1. [Психология](https://stepik.org/course/5521)
 
 1. [aaaa](https://stepik.org/course/5537)
 
@@ -3656,7 +3656,7 @@
 
 1. [Grundlagen der Arbeit in iRidium pro](https://stepik.org/course/5556)
 
-1. [Система культуры и ценностей ](https://stepik.org/course/5561)
+1. [Система культуры и ценностей](https://stepik.org/course/5561)
 
 1. [test emails](https://stepik.org/course/5576)
 
@@ -3714,7 +3714,7 @@
 
 1. [Ознакомление с окружающим миром](https://stepik.org/course/5649)
 
-1. [Путешествие в страну математики ](https://stepik.org/course/5650)
+1. [Путешествие в страну математики](https://stepik.org/course/5650)
 
 1. [Ознакомление с окружающим миром](https://stepik.org/course/5651)
 
@@ -3810,7 +3810,7 @@
 
 1. [Профессиональная этика юриста](https://stepik.org/course/5885)
 
-1. [Functional English. Нужные навыки на английском - легко! ](https://stepik.org/course/5893)
+1. [Functional English. Нужные навыки на английском - легко!](https://stepik.org/course/5893)
 
 1. [моё](https://stepik.org/course/5897)
 
@@ -3828,7 +3828,7 @@
 
 1. [Русский язык как иностранный](https://stepik.org/course/5929)
 
-1. [2-й тур Олимпиады (вечер) "Инженерное 3D-моделирование" - 2018 ](https://stepik.org/course/5932)
+1. [2-й тур Олимпиады (вечер) "Инженерное 3D-моделирование" - 2018](https://stepik.org/course/5932)
 
 1. [My title](https://stepik.org/course/5933)
 
@@ -3858,7 +3858,7 @@
 
 1. [Работа с претензиями пациентов](https://stepik.org/course/6021)
 
-1. [ Веб-квест ](https://stepik.org/course/6073)
+1. [ Веб-квест](https://stepik.org/course/6073)
 
 1. [Кодирование информации](https://stepik.org/course/6090)
 
@@ -3952,7 +3952,7 @@
 
 1. [Тест тест тест](https://stepik.org/course/6326)
 
-1. [НФ ](https://stepik.org/course/6328)
+1. [НФ](https://stepik.org/course/6328)
 
 1. [Организация встречи сообщества ИТ-аналитиков Санкт-Петербурга](https://stepik.org/course/6329)
 
@@ -3968,7 +3968,7 @@
 
 1. [Python](https://stepik.org/course/6369)
 
-1. [Феодальная раздробленность Руси (Диалоги по истории)   ](https://stepik.org/course/6372)
+1. [Феодальная раздробленность Руси (Диалоги по истории)](https://stepik.org/course/6372)
 
 1. [Past Simple Tense](https://stepik.org/course/6373)
 
@@ -4014,7 +4014,7 @@
 
 1. [Урок английского языка](https://stepik.org/course/6482)
 
-1. [Решение 17 задачи ЕГЭ (математика профиль) ](https://stepik.org/course/6490)
+1. [Решение 17 задачи ЕГЭ (математика профиль)](https://stepik.org/course/6490)
 
 1. [test-course](https://stepik.org/course/6513)
 
@@ -4026,7 +4026,7 @@
 
 1. [Электробезопасность](https://stepik.org/course/6523)
 
-1. [Контент Менеджмент ](https://stepik.org/course/6536)
+1. [Контент Менеджмент](https://stepik.org/course/6536)
 
 1. [cs101](https://stepik.org/course/6548)
 
@@ -4034,7 +4034,7 @@
 
 1. [Открытый курс](https://stepik.org/course/6557)
 
-1. [Арифметические действия с обыкновенными дробями ](https://stepik.org/course/6574)
+1. [Арифметические действия с обыкновенными дробями](https://stepik.org/course/6574)
 
 1. [Практические задания по ФСБУ](https://stepik.org/course/6582)
 
@@ -4150,7 +4150,7 @@
 
 1. [Button Test](https://stepik.org/course/7233)
 
-1. [Государственная гражданская служба в Российской Федерации ](https://stepik.org/course/7260)
+1. [Государственная гражданская служба в Российской Федерации](https://stepik.org/course/7260)
 
 1. [Мой курс](https://stepik.org/course/7320)
 
@@ -4202,7 +4202,7 @@
 
 1. [Основы учебно-исследовательской деятельности](https://stepik.org/course/7503)
 
-1. [Математика ](https://stepik.org/course/7504)
+1. [Математика](https://stepik.org/course/7504)
 
 1. [Неонатология](https://stepik.org/course/7505)
 
@@ -4260,7 +4260,7 @@
 
 1. [Создаем сайт на Python (Django)](https://stepik.org/course/7863)
 
-1. [СТФК ](https://stepik.org/course/7864)
+1. [СТФК](https://stepik.org/course/7864)
 
 1. [Деловое общение](https://stepik.org/course/7870)
 
@@ -4280,7 +4280,7 @@
 
 1. [Курсы МОО Межрегиональная служба профилактики](https://stepik.org/course/7962)
 
-1. [Видеолекция "С пользой о моде" ](https://stepik.org/course/7965)
+1. [Видеолекция "С пользой о моде"](https://stepik.org/course/7965)
 
 1. [Test](https://stepik.org/course/7968)
 
@@ -4356,7 +4356,7 @@
 
 1. [Русский язык для иностранцев](https://stepik.org/course/8261)
 
-1. [Коммуникации в современной трудовой деятельности ](https://stepik.org/course/8272)
+1. [Коммуникации в современной трудовой деятельности](https://stepik.org/course/8272)
 
 1. [test before use](https://stepik.org/course/8274)
 
@@ -4394,7 +4394,7 @@
 
 1. [тестовый курс](https://stepik.org/course/8328)
 
-1. [Курсы по изучению башкирского языка ](https://stepik.org/course/8334)
+1. [Курсы по изучению башкирского языка](https://stepik.org/course/8334)
 
 1. [Усеченная пирамида](https://stepik.org/course/8337)
 
@@ -4436,7 +4436,7 @@
 
 1. [Информационное моделирование (сертификационный тест)](https://stepik.org/course/8426)
 
-1. [Computer Programming Using Python ](https://stepik.org/course/8428)
+1. [Computer Programming Using Python](https://stepik.org/course/8428)
 
 1. [Основы продвижения книги](https://stepik.org/course/8429)
 
@@ -4458,7 +4458,7 @@
 
 1. [open edx demo](https://stepik.org/course/8525)
 
-1. [Технология модульного обучения ](https://stepik.org/course/8537)
+1. [Технология модульного обучения](https://stepik.org/course/8537)
 
 1. [Китайский Новый год](https://stepik.org/course/8544)
 
@@ -4572,7 +4572,7 @@
 
 1. [Занимательные математические задачи для 5ых классов](https://stepik.org/course/9122)
 
-1. [Построение таблиц истинности логических операций ](https://stepik.org/course/9123)
+1. [Построение таблиц истинности логических операций](https://stepik.org/course/9123)
 
 1. [Test](https://stepik.org/course/9129)
 
@@ -4664,7 +4664,7 @@
 
 1. [Тест Купец](https://stepik.org/course/9939)
 
-1. [Разложение многочленов на множители ](https://stepik.org/course/9940)
+1. [Разложение многочленов на множители](https://stepik.org/course/9940)
 
 1. [Test](https://stepik.org/course/9941)
 
@@ -4672,7 +4672,7 @@
 
 1. [Programming Club](https://stepik.org/course/9961)
 
-1. [Информатика для самых маленьких ](https://stepik.org/course/9964)
+1. [Информатика для самых маленьких](https://stepik.org/course/9964)
 
 1. [Тест прокторинга](https://stepik.org/course/9965)
 
@@ -4684,7 +4684,7 @@
 
 1. [курс](https://stepik.org/course/9970)
 
-1. [Test course ](https://stepik.org/course/9975)
+1. [Test course](https://stepik.org/course/9975)
 
 1. [Финансовая математика: кредиты и вклады](https://stepik.org/course/9976)
 
@@ -4738,7 +4738,7 @@
 
 1. [Города Великобритании.](https://stepik.org/course/10093)
 
-1. [Города ](https://stepik.org/course/10094)
+1. [Города](https://stepik.org/course/10094)
 
 1. [Франшиза "Правое дело": Информация для новых Партнеров](https://stepik.org/course/10171)
 
@@ -4752,7 +4752,7 @@
 
 1. [Курс](https://stepik.org/course/10242)
 
-1. ["Гамлет" У.Шекспир. Тест на знание произведения ](https://stepik.org/course/10243)
+1. ["Гамлет" У.Шекспир. Тест на знание произведения](https://stepik.org/course/10243)
 
 1. [Курс по S4a](https://stepik.org/course/10244)
 
@@ -4760,7 +4760,7 @@
 
 1. [Тест для проверки знаний по обучающему курсу (ТП)](https://stepik.org/course/10263)
 
-1. [中国文学史 ](https://stepik.org/course/10305)
+1. [中国文学史](https://stepik.org/course/10305)
 
 1. [Информация и информационные процессы. Социальная информатика](https://stepik.org/course/10388)
 
@@ -4768,7 +4768,7 @@
 
 1. [Diego](https://stepik.org/course/10420)
 
-1. [Природные катаклизмы в истории ](https://stepik.org/course/10422)
+1. [Природные катаклизмы в истории](https://stepik.org/course/10422)
 
 1. [Золотой век отечественной литературы 19 века.](https://stepik.org/course/10423)
 
@@ -4784,17 +4784,17 @@
 
 1. [Китайская фонетическая транскрипция](https://stepik.org/course/10504)
 
-1. [Начало работы с сервисом stepic ](https://stepik.org/course/10505)
+1. [Начало работы с сервисом stepic](https://stepik.org/course/10505)
 
 1. [Как сделать пельмени](https://stepik.org/course/10506)
 
-1. [7 ЗАДАНИЕ. ЕГЭ математика база ](https://stepik.org/course/10508)
+1. [7 ЗАДАНИЕ. ЕГЭ математика база](https://stepik.org/course/10508)
 
 1. [How To Act In The Aftermath Of A Car Crash](https://stepik.org/course/10514)
 
-1. [Решение текстовых задач арифметическим способом ](https://stepik.org/course/10516)
+1. [Решение текстовых задач арифметическим способом](https://stepik.org/course/10516)
 
-1. [6 класс НОД и НОК целых чисел ](https://stepik.org/course/10522)
+1. [6 класс НОД и НОК целых чисел](https://stepik.org/course/10522)
 
 1. [Как писать научные статьи](https://stepik.org/course/10524)
 
@@ -5008,7 +5008,7 @@
 
 1. [Уровень и качество жизни населения](https://stepik.org/course/11142)
 
-1. [География Дании ](https://stepik.org/course/11143)
+1. [География Дании](https://stepik.org/course/11143)
 
 1. [Население России](https://stepik.org/course/11144)
 
@@ -5024,7 +5024,7 @@
 
 1. [Выездная налоговая проверка](https://stepik.org/course/11203)
 
-1. [Английский ](https://stepik.org/course/11213)
+1. [Английский](https://stepik.org/course/11213)
 
 1. [МЛ](https://stepik.org/course/11214)
 
@@ -5070,7 +5070,7 @@
 
 1. [Физика ЕГЭ](https://stepik.org/course/11448)
 
-1. [Сделаем! ](https://stepik.org/course/11470)
+1. [Сделаем!](https://stepik.org/course/11470)
 
 1. [Javascript](https://stepik.org/course/11473)
 
@@ -5262,7 +5262,7 @@
 
 1. [Самый лучший курс](https://stepik.org/course/14155)
 
-1. [Формирование самостоятельности на уроках математики ](https://stepik.org/course/14184)
+1. [Формирование самостоятельности на уроках математики](https://stepik.org/course/14184)
 
 1. [PowerPoint](https://stepik.org/course/14553)
 
@@ -5312,7 +5312,7 @@
 
 1. [Atomic Kotlin](https://stepik.org/course/15001)
 
-1. [Scratch ](https://stepik.org/course/15088)
+1. [Scratch](https://stepik.org/course/15088)
 
 1. [Java](https://stepik.org/course/15214)
 
@@ -5528,9 +5528,9 @@
 
 1. [Проверка ИП](https://stepik.org/course/20532)
 
-1. [Сравнение образовательных платформ которые удалось найти в Int  ](https://stepik.org/course/20821)
+1. [Сравнение образовательных платформ которые удалось найти в Int](https://stepik.org/course/20821)
 
-1. [Проверка ИП (для руководителей) ](https://stepik.org/course/20823)
+1. [Проверка ИП (для руководителей)](https://stepik.org/course/20823)
 
 1. [ГО и ЧС](https://stepik.org/course/20886)
 
@@ -5700,15 +5700,15 @@
 
 1. [COP3530 Fall 2018](https://stepik.org/course/24572)
 
-1. [Базовый курс по биологии для подготовки к ОГЭ/ЕГЭ  ](https://stepik.org/course/24573)
+1. [Базовый курс по биологии для подготовки к ОГЭ/ЕГЭ](https://stepik.org/course/24573)
 
-1. [Passato ](https://stepik.org/course/24575)
+1. [Passato](https://stepik.org/course/24575)
 
 1. [ар](https://stepik.org/course/24576)
 
 1. [пайтон](https://stepik.org/course/24577)
 
-1. [КАК СДЕЛАТЬ ЛЕСТНИЦУ СВОИМИ РУКАМИ ](https://stepik.org/course/24658)
+1. [КАК СДЕЛАТЬ ЛЕСТНИЦУ СВОИМИ РУКАМИ](https://stepik.org/course/24658)
 
 1. [Introduction to Plasmonics](https://stepik.org/course/24660)
 
@@ -5730,11 +5730,11 @@
 
 1. [Польский язык. Основы (А1). Быстрое обучение чтению](https://stepik.org/course/24913)
 
-1. [ОГЭ ](https://stepik.org/course/24914)
+1. [ОГЭ](https://stepik.org/course/24914)
 
-1. [Курс подготовки к ОГЭ-2019 по биологии ](https://stepik.org/course/24916)
+1. [Курс подготовки к ОГЭ-2019 по биологии](https://stepik.org/course/24916)
 
-1. [Программа обучения и проверки знаний по охране труда ](https://stepik.org/course/25006)
+1. [Программа обучения и проверки знаний по охране труда](https://stepik.org/course/25006)
 
 1. [hnkjk](https://stepik.org/course/25009)
 
@@ -5846,7 +5846,7 @@
 
 1. [234](https://stepik.org/course/27476)
 
-1. [Проверка ОП (29.08-04.09) ](https://stepik.org/course/27643)
+1. [Проверка ОП (29.08-04.09)](https://stepik.org/course/27643)
 
 1. [dsa](https://stepik.org/course/27922)
 
@@ -5948,7 +5948,7 @@
 
 1. [Aysan](https://stepik.org/course/30448)
 
-1. [J-GET ](https://stepik.org/course/30449)
+1. [J-GET](https://stepik.org/course/30449)
 
 1. [География](https://stepik.org/course/30450)
 
@@ -5966,7 +5966,7 @@
 
 1. [Проектирование одежды на основе подхода массовой кастомизации](https://stepik.org/course/30753)
 
-1. [Химия Биохимия Молекулярная биология История Методы ](https://stepik.org/course/30874)
+1. [Химия Биохимия Молекулярная биология История Методы](https://stepik.org/course/30874)
 
 1. [Программирование в Minecraft для начинающих](https://stepik.org/course/30882)
 
@@ -5980,7 +5980,7 @@
 
 1. [Как учиться эффективно. Цикл Колба](https://stepik.org/course/31891)
 
-1. [kj[](https://stepik.org/course/31892)
+1. [kj](https://stepik.org/course/31892)
 
 1. [Социальное проектирование в НКО](https://stepik.org/course/31893)
 
@@ -5988,7 +5988,7 @@
 
 1. [Самостоятельная работа в курсе "Общая экология"](https://stepik.org/course/32065)
 
-1. [Fernuni Hagen: Grundlagen der Statistik ](https://stepik.org/course/32591)
+1. [Fernuni Hagen: Grundlagen der Statistik](https://stepik.org/course/32591)
 
 1. [Тема 1. Составление задач на сложение и вычитание.](https://stepik.org/course/32806)
 
@@ -6034,7 +6034,7 @@
 
 1. [1](https://stepik.org/course/36222)
 
-1. [Data Structures G5 ](https://stepik.org/course/36228)
+1. [Data Structures G5](https://stepik.org/course/36228)
 
 1. [Мозги](https://stepik.org/course/36353)
 
@@ -6058,7 +6058,7 @@
 
 1. [Мобильные приложения в образовании](https://stepik.org/course/36780)
 
-1. [Решу SAT ](https://stepik.org/course/36781)
+1. [Решу SAT](https://stepik.org/course/36781)
 
 1. [Anastasia Sisauri](https://stepik.org/course/36930)
 
@@ -6114,7 +6114,7 @@
 
 1. [Intern Coding Interview](https://stepik.org/course/39068)
 
-1. [Практикум по программированию ](https://stepik.org/course/39465)
+1. [Практикум по программированию](https://stepik.org/course/39465)
 
 1. [HTML 5 (absolute Beginners Guide)](https://stepik.org/course/39591)
 
@@ -6134,7 +6134,7 @@
 
 1. [test](https://stepik.org/course/40992)
 
-1. [Дистанционная олимпиада "Шаг в будущее" МАОУ "БЛИ №3" ](https://stepik.org/course/41287)
+1. [Дистанционная олимпиада "Шаг в будущее" МАОУ "БЛИ №3"](https://stepik.org/course/41287)
 
 1. [Архитектура информационных систем](https://stepik.org/course/41415)
 
@@ -6194,7 +6194,7 @@
 
 1. [Введение в физику жидких кристаллов](https://stepik.org/course/46411)
 
-1. [Calltracking ](https://stepik.org/course/46415)
+1. [Calltracking](https://stepik.org/course/46415)
 
 1. [Sibamex3 framework - Desarrollo de Aplicaciones Java](https://stepik.org/course/46420)
 
@@ -6276,7 +6276,7 @@
 
 1. [Java Course1](https://stepik.org/course/46882)
 
-1. [Безопасность в сети Интернет ](https://stepik.org/course/46939)
+1. [Безопасность в сети Интернет](https://stepik.org/course/46939)
 
 1. [Особенности функционирования первых ЭВМ.](https://stepik.org/course/46940)
 
@@ -6366,13 +6366,13 @@
 
 1. [Цикл FOR (Pascal)](https://stepik.org/course/47396)
 
-1. [пр ](https://stepik.org/course/47399)
+1. [пр](https://stepik.org/course/47399)
 
 1. [Информатика и ИКТ](https://stepik.org/course/47402)
 
 1. [Building Microservices in Python and Javascript in Agile way](https://stepik.org/course/47403)
 
-1. [Programming Fundamentals ](https://stepik.org/course/47405)
+1. [Programming Fundamentals](https://stepik.org/course/47405)
 
 1. [Умный дом. Принципы и возможности этой системы.](https://stepik.org/course/47406)
 
@@ -6406,9 +6406,9 @@
 
 1. ["Кольчуга++". Основы менеджмента для начинающего руководителя.](https://stepik.org/course/47564)
 
-1. [Application of Signals and Systems ](https://stepik.org/course/47566)
+1. [Application of Signals and Systems](https://stepik.org/course/47566)
 
-1. [   ](https://stepik.org/course/47618)
+1. [Empty name](https://stepik.org/course/47618)
 
 1. [How To Prepare For Your Skiing Holiday](https://stepik.org/course/47620)
 
@@ -6422,7 +6422,7 @@
 
 1. [Склад И](https://stepik.org/course/47690)
 
-1. [csci 3150 ](https://stepik.org/course/47693)
+1. [csci 3150](https://stepik.org/course/47693)
 
 1. [Практикум по программированию на языке Си](https://stepik.org/course/47747)
 
@@ -6450,7 +6450,7 @@
 
 1. [Основы клинической фармакологии для разработки лекарств](https://stepik.org/course/47924)
 
-1. [E-learning ](https://stepik.org/course/47925)
+1. [E-learning](https://stepik.org/course/47925)
 
 1. [Физическая культура](https://stepik.org/course/47952)
 
@@ -6464,7 +6464,7 @@
 
 1. [3D-моделирование в Blender](https://stepik.org/course/48069)
 
-1. [Социология ](https://stepik.org/course/48122)
+1. [Социология](https://stepik.org/course/48122)
 
 1. [Тест](https://stepik.org/course/48227)
 
@@ -6474,7 +6474,7 @@
 
 1. [ИНДИВИДУАЛЬНАЯ ПРОГРАММА РАЗВИТИЯ](https://stepik.org/course/48261)
 
-1. [meta-meta ](https://stepik.org/course/48262)
+1. [meta-meta](https://stepik.org/course/48262)
 
 1. [course 1](https://stepik.org/course/48263)
 
@@ -6526,13 +6526,13 @@
 
 1. [IELTS with 영국남자](https://stepik.org/course/48543)
 
-1. ["АСУ на немецком - начальный уровень" ](https://stepik.org/course/48546)
+1. ["АСУ на немецком - начальный уровень"](https://stepik.org/course/48546)
 
 1. [Математика для школьников начального образования](https://stepik.org/course/48547)
 
 1. [Тест курс](https://stepik.org/course/48549)
 
-1. [Как сделать лучший проект по информатике ](https://stepik.org/course/48578)
+1. [Как сделать лучший проект по информатике](https://stepik.org/course/48578)
 
 1. [тестируем антибиотики](https://stepik.org/course/48581)
 
@@ -6540,7 +6540,7 @@
 
 1. [Basic Life Support and Automated External Defibrillation](https://stepik.org/course/48612)
 
-1. [от Олимпиад к ЕГЭ ](https://stepik.org/course/48613)
+1. [от Олимпиад к ЕГЭ](https://stepik.org/course/48613)
 
 1. [Physics](https://stepik.org/course/48615)
 
@@ -6548,7 +6548,7 @@
 
 1. [Java Code Convention Test](https://stepik.org/course/48617)
 
-1. [Инновационные технологии в профессиональной деятельности ](https://stepik.org/course/48618)
+1. [Инновационные технологии в профессиональной деятельности](https://stepik.org/course/48618)
 
 1. [Конституционное право России](https://stepik.org/course/48619)
 
@@ -6618,7 +6618,7 @@
 
 1. [Праздники Германии. Традиции и обычаи.](https://stepik.org/course/48741)
 
-1. [история России с древнейших времен ](https://stepik.org/course/48742)
+1. [история России с древнейших времен](https://stepik.org/course/48742)
 
 1. [Мир природы](https://stepik.org/course/48743)
 
@@ -6660,7 +6660,7 @@
 
 1. [Тепловые явления](https://stepik.org/course/48871)
 
-1. [Вторая Мировая война. ](https://stepik.org/course/48874)
+1. [Вторая Мировая война.](https://stepik.org/course/48874)
 
 1. ["Семья-ячейка общества"](https://stepik.org/course/48875)
 
@@ -6692,7 +6692,7 @@
 
 1. [Perfekt слабых глаголов](https://stepik.org/course/48921)
 
-1. [Уравнения, приводимые к квадратным. Биквадратные уравнения. ](https://stepik.org/course/48922)
+1. [Уравнения, приводимые к квадратным. Биквадратные уравнения.](https://stepik.org/course/48922)
 
 1. [Практикум "Экология села Большой Ломовис"](https://stepik.org/course/48923)
 
@@ -6708,7 +6708,7 @@
 
 1. [Деятельность первых русских князей](https://stepik.org/course/48979)
 
-1. [Сложноподчинённые предложения ](https://stepik.org/course/48980)
+1. [Сложноподчинённые предложения](https://stepik.org/course/48980)
 
 1. [Подготовка к ОГЭ по английскому языку](https://stepik.org/course/48983)
 
@@ -6738,9 +6738,9 @@
 
 1. [Моя малая родина](https://stepik.org/course/49004)
 
-1. [Битва Замков ](https://stepik.org/course/49005)
+1. [Битва Замков](https://stepik.org/course/49005)
 
-1. [Битва Замков ](https://stepik.org/course/49006)
+1. [Битва Замков](https://stepik.org/course/49006)
 
 1. [Тема урока: "Слоги".](https://stepik.org/course/49007)
 
@@ -6798,7 +6798,7 @@
 
 1. [Какие бывают животные](https://stepik.org/course/49170)
 
-1. [алгебре ](https://stepik.org/course/49171)
+1. [алгебре](https://stepik.org/course/49171)
 
 1. [Электромагнитные волны и экология человека](https://stepik.org/course/49173)
 
@@ -6834,7 +6834,7 @@
 
 1. [Использование мобильных технологий в общем образовании](https://stepik.org/course/49249)
 
-1. [Влияние компьютера на здоровье человека ](https://stepik.org/course/49250)
+1. [Влияние компьютера на здоровье человека](https://stepik.org/course/49250)
 
 1. [Алгебра в ОГЭ 2019](https://stepik.org/course/49252)
 
@@ -6880,7 +6880,7 @@
 
 1. [Подготовка к олимпиаде по информатике](https://stepik.org/course/49428)
 
-1. [Per te è importante l'apparenza? ](https://stepik.org/course/49431)
+1. [Per te è importante l'apparenza?](https://stepik.org/course/49431)
 
 1. [Олимпиадный прорыв](https://stepik.org/course/49433)
 
@@ -6932,7 +6932,7 @@
 
 1. [Документирование профессиональной деятельности](https://stepik.org/course/49646)
 
-1. [English for law students ](https://stepik.org/course/49666)
+1. [English for law students](https://stepik.org/course/49666)
 
 1. [Физика: Оптика](https://stepik.org/course/49677)
 
@@ -6998,7 +6998,7 @@
 
 1. [Intro to Programming With Java](https://stepik.org/course/50022)
 
-1. [Как (не) обанкротить фирму за 20 дней ](https://stepik.org/course/50023)
+1. [Как (не) обанкротить фирму за 20 дней](https://stepik.org/course/50023)
 
 1. [Как подготовиться к ЕГЭ по физике](https://stepik.org/course/50024)
 
@@ -7028,7 +7028,7 @@
 
 1. [Дистанционный DS](https://stepik.org/course/50054)
 
-1. [Математика ](https://stepik.org/course/50056)
+1. [Математика](https://stepik.org/course/50056)
 
 1. [Русский язык 1 курс СПО](https://stepik.org/course/50058)
 
@@ -7046,7 +7046,7 @@
 
 1. [Подготовка к ЕГЭ по информатике (24-27 задания)](https://stepik.org/course/50075)
 
-1. [Международное уголовное право ](https://stepik.org/course/50077)
+1. [Международное уголовное право](https://stepik.org/course/50077)
 
 1. [тестовый курс с предпросмотром уроков](https://stepik.org/course/50086)
 
@@ -7096,7 +7096,7 @@
 
 1. [Функциональная диагностика](https://stepik.org/course/50156)
 
-1. [Авторская детская мультипликация ](https://stepik.org/course/50159)
+1. [Авторская детская мультипликация](https://stepik.org/course/50159)
 
 1. [Введение в компьютерную томографию органов грудной клетки](https://stepik.org/course/50163)
 
@@ -7108,9 +7108,9 @@
 
 1. [Программирование Python. Информатика ОГЭ, ЕГЭ, олимпиады.](https://stepik.org/course/50169)
 
-1. [Вычислительная геометрия на плоскости. ](https://stepik.org/course/50177)
+1. [Вычислительная геометрия на плоскости.](https://stepik.org/course/50177)
 
-1. [Chemistry ](https://stepik.org/course/50181)
+1. [Chemistry](https://stepik.org/course/50181)
 
 1. [Wolfram Mathematica](https://stepik.org/course/50184)
 
@@ -7210,13 +7210,13 @@
 
 1. [Chemistry 8 class](https://stepik.org/course/50326)
 
-1. [Learning Python (SGS College Students) ](https://stepik.org/course/50329)
+1. [Learning Python (SGS College Students)](https://stepik.org/course/50329)
 
 1. [Лёня Баклан](https://stepik.org/course/50331)
 
 1. [er](https://stepik.org/course/50334)
 
-1. [подготовка к ЕГЭ по информатике ](https://stepik.org/course/50335)
+1. [подготовка к ЕГЭ по информатике](https://stepik.org/course/50335)
 
 1. [Тест](https://stepik.org/course/50339)
 
@@ -7296,15 +7296,15 @@
 
 1. [dgfdgdf](https://stepik.org/course/50430)
 
-1. [Windows ](https://stepik.org/course/50431)
+1. [Windows](https://stepik.org/course/50431)
 
 1. [Введение в с++](https://stepik.org/course/50433)
 
-1. [Литературное чтение ](https://stepik.org/course/50434)
+1. [Литературное чтение](https://stepik.org/course/50434)
 
 1. [Окружающий мир](https://stepik.org/course/50435)
 
-1. [Математика 2 класс ](https://stepik.org/course/50436)
+1. [Математика 2 класс](https://stepik.org/course/50436)
 
 1. [Русский язык](https://stepik.org/course/50437)
 
@@ -7340,7 +7340,7 @@
 
 1. [жабка](https://stepik.org/course/50486)
 
-1. [Правоведение ](https://stepik.org/course/50487)
+1. [Правоведение](https://stepik.org/course/50487)
 
 1. [Базы данных](https://stepik.org/course/50495)
 
@@ -7362,7 +7362,7 @@
 
 1. [Информатика 8 класс](https://stepik.org/course/50518)
 
-1. [Разговаривать с людьми или на публике ](https://stepik.org/course/50521)
+1. [Разговаривать с людьми или на публике](https://stepik.org/course/50521)
 
 1. ["Операционные системы"](https://stepik.org/course/50522)
 
@@ -7372,7 +7372,7 @@
 
 1. [Биологические основы психопатологий](https://stepik.org/course/50527)
 
-1. [ логикалық матем ](https://stepik.org/course/50529)
+1. [ логикалық матем](https://stepik.org/course/50529)
 
 1. [Тест](https://stepik.org/course/50530)
 
@@ -7380,15 +7380,15 @@
 
 1. [тест](https://stepik.org/course/50532)
 
-1. [тест ](https://stepik.org/course/50533)
+1. [тест](https://stepik.org/course/50533)
 
-1. [тест ](https://stepik.org/course/50534)
+1. [тест](https://stepik.org/course/50534)
 
 1. [математика](https://stepik.org/course/50535)
 
 1. [Механика](https://stepik.org/course/50536)
 
-1. [Bведение в информатику ](https://stepik.org/course/50537)
+1. [Bведение в информатику](https://stepik.org/course/50537)
 
 1. [«Ваши новые (нужные) навыки, чтобы не опоздать за своим будущим»](https://stepik.org/course/50538)
 
@@ -7464,7 +7464,7 @@
 
 1. [Трудовой договор в России: что необходимо знать работнику](https://stepik.org/course/50610)
 
-1. [Pascal ](https://stepik.org/course/50612)
+1. [Pascal](https://stepik.org/course/50612)
 
 1. [Pascal Основы](https://stepik.org/course/50613)
 
@@ -7488,9 +7488,9 @@
 
 1. [Travel](https://stepik.org/course/50637)
 
-1. [The revenant ](https://stepik.org/course/50640)
+1. [The revenant](https://stepik.org/course/50640)
 
-1. [Sushi course ](https://stepik.org/course/50642)
+1. [Sushi course](https://stepik.org/course/50642)
 
 1. [Решение математических задач с использованием электронных таблиц](https://stepik.org/course/50644)
 
@@ -7552,9 +7552,9 @@
 
 1. [Analysis I](https://stepik.org/course/50716)
 
-1. [Тестирование для сотрудников отдела внедрения. ](https://stepik.org/course/50717)
+1. [Тестирование для сотрудников отдела внедрения.](https://stepik.org/course/50717)
 
-1. [Linear Algebra und Analyse I ](https://stepik.org/course/50718)
+1. [Linear Algebra und Analyse I](https://stepik.org/course/50718)
 
 1. [Linear Algebra und Analyse I](https://stepik.org/course/50719)
 
@@ -7582,7 +7582,7 @@
 
 1. [Функция](https://stepik.org/course/50750)
 
-1. [Введение в ботанику ](https://stepik.org/course/50752)
+1. [Введение в ботанику](https://stepik.org/course/50752)
 
 1. [Сопровождение одаренного ребенка](https://stepik.org/course/50755)
 
@@ -7614,7 +7614,7 @@
 
 1. [Информатика(основы MS Word и MS Excel)](https://stepik.org/course/50821)
 
-1. [Condicionales ](https://stepik.org/course/50822)
+1. [Condicionales](https://stepik.org/course/50822)
 
 1. [МГ | Кирилл](https://stepik.org/course/50834)
 
@@ -7644,7 +7644,7 @@
 
 1. [Пробный курс 1(информатика_ЕГЭ)](https://stepik.org/course/50887)
 
-1. [Числа и фигуры ](https://stepik.org/course/50891)
+1. [Числа и фигуры](https://stepik.org/course/50891)
 
 1. [Курс обучения по созданию сборок в компьютерной игре "Dota 2"](https://stepik.org/course/50900)
 
@@ -7672,13 +7672,13 @@
 
 1. [тесты по конструктивному моделированию одежды](https://stepik.org/course/50950)
 
-1. [Урок русского языка в доме вверх дном ](https://stepik.org/course/50963)
+1. [Урок русского языка в доме вверх дном](https://stepik.org/course/50963)
 
 1. [за чертой богаства](https://stepik.org/course/50970)
 
 1. [Python Kurs 2019 - Deutsch (open for all)](https://stepik.org/course/50976)
 
-1. [Инновационные технологии в профессиональной деятельности ](https://stepik.org/course/50979)
+1. [Инновационные технологии в профессиональной деятельности](https://stepik.org/course/50979)
 
 1. [Стандартизация в области разработки электронных образовательных.](https://stepik.org/course/50982)
 
@@ -7706,7 +7706,7 @@
 
 1. [Обработка информации. Табличные редакторы](https://stepik.org/course/51040)
 
-1. [Курс 1 ](https://stepik.org/course/51041)
+1. [Курс 1](https://stepik.org/course/51041)
 
 1. [Основы программирования на Python для школьников](https://stepik.org/course/51047)
 
@@ -7784,7 +7784,7 @@
 
 1. [otabek'](https://stepik.org/course/51163)
 
-1. [Информатика ](https://stepik.org/course/51166)
+1. [Информатика](https://stepik.org/course/51166)
 
 1. [Интернет. Веб-разработка 7-11 кл. HTML, CSS, JS](https://stepik.org/course/51168)
 
@@ -7800,7 +7800,7 @@
 
 1. [Что такое государство?](https://stepik.org/course/51188)
 
-1. [Создание игр ](https://stepik.org/course/51189)
+1. [Создание игр](https://stepik.org/course/51189)
 
 1. [Веб-дизайн для начинающих](https://stepik.org/course/51197)
 
@@ -7830,7 +7830,7 @@
 
 1. [Dynamic Programming](https://stepik.org/course/51222)
 
-1. [KET Objective ](https://stepik.org/course/51223)
+1. [KET Objective](https://stepik.org/course/51223)
 
 1. [Математика](https://stepik.org/course/51226)
 
@@ -7880,7 +7880,7 @@
 
 1. [Тест для кандидатов](https://stepik.org/course/51342)
 
-1. [Информатика в школе ](https://stepik.org/course/51345)
+1. [Информатика в школе](https://stepik.org/course/51345)
 
 1. [РЕКУЛЬТИВАЦИЯ НАРУШЕННЫХ ЗЕМЕЛЬ ГОРНОЙ ПРОМЫШЛЕННОСТИ](https://stepik.org/course/51347)
 
@@ -8028,7 +8028,7 @@
 
 1. [Проектирование баз данных](https://stepik.org/course/51675)
 
-1. [Безопастность Жизнидеятельности ](https://stepik.org/course/51678)
+1. [Безопастность Жизнидеятельности](https://stepik.org/course/51678)
 
 1. [Социальный волонтер](https://stepik.org/course/51680)
 
@@ -8052,7 +8052,7 @@
 
 1. [Advanced Programming Class](https://stepik.org/course/51727)
 
-1. [ ЕГЭ по информатике: программирование на Pascal ABC.net ](https://stepik.org/course/51737)
+1. [ ЕГЭ по информатике: программирование на Pascal ABC.net](https://stepik.org/course/51737)
 
 1. [Современное банковское право России](https://stepik.org/course/51739)
 
@@ -8104,7 +8104,7 @@
 
 1. [Культурное пространство Российской империи](https://stepik.org/course/51854)
 
-1. [Изготовление и монтаж Навес ](https://stepik.org/course/51855)
+1. [Изготовление и монтаж Навес](https://stepik.org/course/51855)
 
 1. [Анатомия и физиология](https://stepik.org/course/51860)
 
@@ -8120,7 +8120,7 @@
 
 1. [Животные живого уголка](https://stepik.org/course/51873)
 
-1. [по МДК 03.02 ](https://stepik.org/course/51884)
+1. [по МДК 03.02](https://stepik.org/course/51884)
 
 1. [Алгоритмы и подготовка к олимпиадам](https://stepik.org/course/51889)
 
@@ -8184,7 +8184,7 @@
 
 1. [Информация о продукции АО "Калинов Родник"](https://stepik.org/course/51992)
 
-1. [ОНТИ 18/19. Когнитивные технологии. Этап 2. Разбор. ](https://stepik.org/course/51995)
+1. [ОНТИ 18/19. Когнитивные технологии. Этап 2. Разбор.](https://stepik.org/course/51995)
 
 1. ["Это удивительное числительное"](https://stepik.org/course/51998)
 
@@ -8234,7 +8234,7 @@
 
 1. [Что ты знаешь в этом мире](https://stepik.org/course/52122)
 
-1. [Интерактивный курс "Создание высокоэффективных команд" ](https://stepik.org/course/52128)
+1. [Интерактивный курс "Создание высокоэффективных команд"](https://stepik.org/course/52128)
 
 1. [Внешняя политика России при Александре II](https://stepik.org/course/52130)
 
@@ -8300,7 +8300,7 @@
 
 1. [Основы PHP](https://stepik.org/course/52314)
 
-1. [Волентерство ](https://stepik.org/course/52328)
+1. [Волентерство](https://stepik.org/course/52328)
 
 1. [Игра Сапёр на Java](https://stepik.org/course/52329)
 
@@ -8386,7 +8386,7 @@
 
 1. [Английский язык 1 класс](https://stepik.org/course/52532)
 
-1. [Методика изучение производной в школьном курсе математики ](https://stepik.org/course/52538)
+1. [Методика изучение производной в школьном курсе математики](https://stepik.org/course/52538)
 
 1. [йцуцйу](https://stepik.org/course/52540)
 
@@ -8480,13 +8480,13 @@
 
 1. [Тесты-пазлы](https://stepik.org/course/52748)
 
-1. [Урок 9 класс ](https://stepik.org/course/52754)
+1. [Урок 9 класс](https://stepik.org/course/52754)
 
 1. [Informatics](https://stepik.org/course/52761)
 
-1. [русский язык  ](https://stepik.org/course/52762)
+1. [русский язык](https://stepik.org/course/52762)
 
-1. [русский язык  ](https://stepik.org/course/52763)
+1. [русский язык](https://stepik.org/course/52763)
 
 1. [Teste](https://stepik.org/course/52765)
 
@@ -8530,7 +8530,7 @@
 
 1. [Олимпиада "STEM"  по математике 2018-2019гг (4 класс)](https://stepik.org/course/52832)
 
-1. [Информатика ](https://stepik.org/course/52833)
+1. [Информатика](https://stepik.org/course/52833)
 
 1. [Общий курс Витаукт](https://stepik.org/course/52835)
 
@@ -8554,7 +8554,7 @@
 
 1. [Соревнования по информатике](https://stepik.org/course/52861)
 
-1. [Data experience design - тестовое задание ](https://stepik.org/course/52862)
+1. [Data experience design - тестовое задание](https://stepik.org/course/52862)
 
 1. [тестовый тест](https://stepik.org/course/52880)
 
@@ -8712,7 +8712,7 @@
 
 1. [Филфак 2 Напиши свой Роман!](https://stepik.org/course/53136)
 
-1. [Андроид с нуля ](https://stepik.org/course/53146)
+1. [Андроид с нуля](https://stepik.org/course/53146)
 
 1. [Databases (2019, spring)](https://stepik.org/course/53150)
 
@@ -8722,7 +8722,7 @@
 
 1. [ss](https://stepik.org/course/53159)
 
-1. [Le français mon amie ](https://stepik.org/course/53160)
+1. [Le français mon amie](https://stepik.org/course/53160)
 
 1. [English State Exam: Essay](https://stepik.org/course/53168)
 
@@ -8818,11 +8818,11 @@
 
 1. [Компьютер: устройство и программное обеспечение](https://stepik.org/course/53370)
 
-1. [Основы программирования на языке Pascal ](https://stepik.org/course/53371)
+1. [Основы программирования на языке Pascal](https://stepik.org/course/53371)
 
 1. [Основы алгоритмизации](https://stepik.org/course/53372)
 
-1. [Текстовая информация ](https://stepik.org/course/53373)
+1. [Текстовая информация](https://stepik.org/course/53373)
 
 1. [Кодирование информации с помощью знаковых систем](https://stepik.org/course/53374)
 
@@ -8922,7 +8922,7 @@
 
 1. [Защита прав человека. Правоохранительные органы. 7 класс](https://stepik.org/course/53627)
 
-1. [Бизнес-аналитика данных в IBM SPSS Modeler ](https://stepik.org/course/53630)
+1. [Бизнес-аналитика данных в IBM SPSS Modeler](https://stepik.org/course/53630)
 
 1. [ASD2-Test](https://stepik.org/course/53633)
 
@@ -8996,7 +8996,7 @@
 
 1. [Видеопрактикум по онлайн-бизнесу | E11even Marketing](https://stepik.org/course/53779)
 
-1. [Заочная олимпиада по информатике для 5-7 классов ](https://stepik.org/course/53784)
+1. [Заочная олимпиада по информатике для 5-7 классов](https://stepik.org/course/53784)
 
 1. [история чукотки](https://stepik.org/course/53797)
 
@@ -9008,7 +9008,7 @@
 
 1. [How to cook eat when you alone at home](https://stepik.org/course/53827)
 
-1. [how to learn English ](https://stepik.org/course/53828)
+1. [how to learn English](https://stepik.org/course/53828)
 
 1. [baking](https://stepik.org/course/53829)
 
@@ -9022,7 +9022,7 @@
 
 1. [Rhythmic gymnastics.](https://stepik.org/course/53836)
 
-1. [ Manicure training ](https://stepik.org/course/53837)
+1. [ Manicure training](https://stepik.org/course/53837)
 
 1. [ Cooking](https://stepik.org/course/53838)
 
@@ -9036,7 +9036,7 @@
 
 1. [TestCourse](https://stepik.org/course/53851)
 
-1. [Обществознание ](https://stepik.org/course/53859)
+1. [Обществознание](https://stepik.org/course/53859)
 
 1. [Ботаем 2-ой РК](https://stepik.org/course/53860)
 
@@ -9134,7 +9134,7 @@
 
 1. [Цели устойчивого развития для НКО](https://stepik.org/course/54049)
 
-1. [Основы цифровой техники ](https://stepik.org/course/54059)
+1. [Основы цифровой техники](https://stepik.org/course/54059)
 
 1. [Аналитическая психология](https://stepik.org/course/54060)
 
@@ -9142,9 +9142,9 @@
 
 1. [Информатика](https://stepik.org/course/54063)
 
-1. [Иформатика ](https://stepik.org/course/54069)
+1. [Иформатика](https://stepik.org/course/54069)
 
-1. [информатика ](https://stepik.org/course/54070)
+1. [информатика](https://stepik.org/course/54070)
 
 1. [Подготовка к ЕГЭ](https://stepik.org/course/54071)
 
@@ -9210,7 +9210,7 @@
 
 1. [Memulai Pemrograman dengan Kotlin](https://stepik.org/course/54217)
 
-1. [Арифметика ](https://stepik.org/course/54227)
+1. [Арифметика](https://stepik.org/course/54227)
 
 1. [Химия 9 класс](https://stepik.org/course/54241)
 
@@ -9274,13 +9274,13 @@
 
 1. [Всё о Prezi](https://stepik.org/course/54408)
 
-1. [The Elder Scrolls V: Skyrim Special Edition ](https://stepik.org/course/54409)
+1. [The Elder Scrolls V: Skyrim Special Edition](https://stepik.org/course/54409)
 
 1. [Бизнес на субаренде квартир](https://stepik.org/course/54414)
 
 1. [Mastering Web3 with Waves](https://stepik.org/course/54415)
 
-1. [Скорая и неотложные медицинская помощь ](https://stepik.org/course/54416)
+1. [Скорая и неотложные медицинская помощь](https://stepik.org/course/54416)
 
 1. [Химия 8 класс](https://stepik.org/course/54422)
 
@@ -9288,7 +9288,7 @@
 
 1. [Профилактика эмоционального выгорания "Второе дыхание"](https://stepik.org/course/54434)
 
-1. [Биология ](https://stepik.org/course/54439)
+1. [Биология](https://stepik.org/course/54439)
 
 1. [Алгоритмизация и программирование](https://stepik.org/course/54440)
 
@@ -9350,7 +9350,7 @@
 
 1. [Курс Revit Structure](https://stepik.org/course/54612)
 
-1. [Родной русский язык ](https://stepik.org/course/54620)
+1. [Родной русский язык](https://stepik.org/course/54620)
 
 1. [Радиоэлектроника для новичка](https://stepik.org/course/54630)
 
@@ -9406,7 +9406,7 @@
 
 1. [How to Deal with Survey Fatigue](https://stepik.org/course/54731)
 
-1. [Выращивание шампиньонов в домашних условиях  ](https://stepik.org/course/54734)
+1. [Выращивание шампиньонов в домашних условиях](https://stepik.org/course/54734)
 
 1. [Текстовая информация и компьютер](https://stepik.org/course/54736)
 
@@ -9430,13 +9430,13 @@
 
 1. [Информатика 7 класс](https://stepik.org/course/54792)
 
-1. [Флексим как Рикардо ](https://stepik.org/course/54794)
+1. [Флексим как Рикардо](https://stepik.org/course/54794)
 
 1. [|Управление временем|](https://stepik.org/course/54807)
 
 1. [Зачет "Основные методы машинного обучения"](https://stepik.org/course/54810)
 
-1. [Текстовой процессор MS Word ](https://stepik.org/course/54819)
+1. [Текстовой процессор MS Word](https://stepik.org/course/54819)
 
 1. [Информация и информационные процессы](https://stepik.org/course/54820)
 
@@ -9446,7 +9446,7 @@
 
 1. [Оценка персонала и самодиагностика. Базовый курс](https://stepik.org/course/54823)
 
-1. [Хранение и обработка информации в базах данных ](https://stepik.org/course/54824)
+1. [Хранение и обработка информации в базах данных](https://stepik.org/course/54824)
 
 1. [How to Set Up Your Store on Instagram](https://stepik.org/course/54825)
 
@@ -9506,13 +9506,13 @@
 
 1. [Intro to pandas](https://stepik.org/course/54935)
 
-1. [Литература ](https://stepik.org/course/54941)
+1. [Литература](https://stepik.org/course/54941)
 
 1. [KOREAN SIMPLE 1급. Пробный доступ.](https://stepik.org/course/54945)
 
 1. [private course Eng](https://stepik.org/course/54948)
 
-1. [Открытые инновации ](https://stepik.org/course/54962)
+1. [Открытые инновации](https://stepik.org/course/54962)
 
 1. [Менторство](https://stepik.org/course/54978)
 
@@ -9538,7 +9538,7 @@
 
 1. [ОГЭ по математике: C часть](https://stepik.org/course/55072)
 
-1. [Задачи на движение ](https://stepik.org/course/55077)
+1. [Задачи на движение](https://stepik.org/course/55077)
 
 1. [Русский язык  3 класс](https://stepik.org/course/55078)
 
@@ -9578,7 +9578,7 @@
 
 1. [Оптика. Световые явления](https://stepik.org/course/55168)
 
-1. [Производная в школьном курсе математики ](https://stepik.org/course/55186)
+1. [Производная в школьном курсе математики](https://stepik.org/course/55186)
 
 1. [Циклы на языке Python](https://stepik.org/course/55202)
 
@@ -9586,7 +9586,7 @@
 
 1. [Исследую мир через техническое творчество.](https://stepik.org/course/55211)
 
-1. [My test course ](https://stepik.org/course/55232)
+1. [My test course](https://stepik.org/course/55232)
 
 1. [Поступление в Лицей Иннополис в 7 класс на 2020-2021 учебный год](https://stepik.org/course/55239)
 
@@ -9604,13 +9604,13 @@
 
 1. [Информация и информационные процессы](https://stepik.org/course/55291)
 
-1. [Папье-маше ](https://stepik.org/course/55292)
+1. [Папье-маше](https://stepik.org/course/55292)
 
 1. [Уроки фотошопа](https://stepik.org/course/55295)
 
 1. [Системы линейных уравнений](https://stepik.org/course/55299)
 
-1. [Введение в  программирование на Python ](https://stepik.org/course/55300)
+1. [Введение в  программирование на Python](https://stepik.org/course/55300)
 
 1. [English for Aduldts](https://stepik.org/course/55301)
 
@@ -9624,7 +9624,7 @@
 
 1. [Обеспечение доступности общественного объекта](https://stepik.org/course/55316)
 
-1. [A DAN Z YE HTML ](https://stepik.org/course/55324)
+1. [A DAN Z YE HTML](https://stepik.org/course/55324)
 
 1. [Циклы на языке Python](https://stepik.org/course/55325)
 
@@ -9714,7 +9714,7 @@
 
 1. [Архитектура города Астаны 2](https://stepik.org/course/55576)
 
-1. [Java обьектілі бағытталған прпграммалау ](https://stepik.org/course/55577)
+1. [Java обьектілі бағытталған прпграммалау](https://stepik.org/course/55577)
 
 1. [Урбанизм](https://stepik.org/course/55578)
 
@@ -9736,7 +9736,7 @@
 
 1. [строительные материалы](https://stepik.org/course/55597)
 
-1. [Безопасность VOIP ](https://stepik.org/course/55604)
+1. [Безопасность VOIP](https://stepik.org/course/55604)
 
 1. [Безопасность VOIP](https://stepik.org/course/55605)
 
@@ -9776,7 +9776,7 @@
 
 1. [Программирование](https://stepik.org/course/55713)
 
-1. [Құрылыста  бизнес-жоспарлау ](https://stepik.org/course/55725)
+1. [Құрылыста  бизнес-жоспарлау](https://stepik.org/course/55725)
 
 1. [Алгоритмы и рекурсивные курсы](https://stepik.org/course/55729)
 
@@ -9788,7 +9788,7 @@
 
 1. [Алгоритмы и рекурсивные функции](https://stepik.org/course/55741)
 
-1. [Құрылыстағы BIM технологиясы ](https://stepik.org/course/55743)
+1. [Құрылыстағы BIM технологиясы](https://stepik.org/course/55743)
 
 1. [formation 2 Omsk](https://stepik.org/course/55744)
 
@@ -9920,7 +9920,7 @@
 
 1. [Mastering web3 with waves (Greek)](https://stepik.org/course/56168)
 
-1. [ПРО100: Волонтерский фандрайзинг для НКО ](https://stepik.org/course/56173)
+1. [ПРО100: Волонтерский фандрайзинг для НКО](https://stepik.org/course/56173)
 
 1. [Базовый курс работы с видеоредактором Movavi Video Editor](https://stepik.org/course/56176)
 
@@ -9994,7 +9994,7 @@
 
 1. [MedAT Chemie 2020 Probe - Prüfungsfragen](https://stepik.org/course/56370)
 
-1. [Школа Капперов "Деньги в кассу" ](https://stepik.org/course/56376)
+1. [Школа Капперов "Деньги в кассу"](https://stepik.org/course/56376)
 
 1. [Школа волонтера: базовые понятия](https://stepik.org/course/56380)
 
@@ -10006,11 +10006,11 @@
 
 1. [Bioinformatics Summer School 2019 - Alignment problems](https://stepik.org/course/56393)
 
-1. [How to See the Bangkok Sites If You Only Have 3 Days ](https://stepik.org/course/56394)
+1. [How to See the Bangkok Sites If You Only Have 3 Days](https://stepik.org/course/56394)
 
 1. [Основы ПК (Windows)](https://stepik.org/course/56397)
 
-1. [Web 3.0 на платформе Waves ](https://stepik.org/course/56401)
+1. [Web 3.0 на платформе Waves](https://stepik.org/course/56401)
 
 1. [1231231](https://stepik.org/course/56406)
 
@@ -10018,7 +10018,7 @@
 
 1. [Продажи на маркетплейсе Озон. Заработать может каждый.](https://stepik.org/course/56412)
 
-1. [APCSA ](https://stepik.org/course/56414)
+1. [APCSA](https://stepik.org/course/56414)
 
 1. [SME0332 2019 [BioMol] (14h20)](https://stepik.org/course/56422)
 
@@ -10042,7 +10042,7 @@
 
 1. [Подготовка к огэ по обществознанию](https://stepik.org/course/56485)
 
-1. [Психолог и Право в РФ. Тестирование ](https://stepik.org/course/56489)
+1. [Психолог и Право в РФ. Тестирование](https://stepik.org/course/56489)
 
 1. [Текстовая живопись: как писать эмоциональные тексты](https://stepik.org/course/56494)
 
@@ -10120,7 +10120,7 @@
 
 1. [Обучение детей эффективному мышлению](https://stepik.org/course/56765)
 
-1. [Как выстроить прибыльную стратегию интернет продвижения ](https://stepik.org/course/56773)
+1. [Как выстроить прибыльную стратегию интернет продвижения](https://stepik.org/course/56773)
 
 1. [My Course](https://stepik.org/course/56780)
 
@@ -10272,7 +10272,7 @@
 
 1. [Последовательности и прогрессии](https://stepik.org/course/57061)
 
-1. [Грамматика английского языка для медиков и фармацевтов 1 ](https://stepik.org/course/57062)
+1. [Грамматика английского языка для медиков и фармацевтов 1](https://stepik.org/course/57062)
 
 1. [How to Boost Computer Speed](https://stepik.org/course/57064)
 
@@ -10334,7 +10334,7 @@
 
 1. [подготовка к ЕГЭ ГБОУ Школа 1158](https://stepik.org/course/57248)
 
-1. [Менеджер местного сообщества ](https://stepik.org/course/57257)
+1. [Менеджер местного сообщества](https://stepik.org/course/57257)
 
 1. [подготовка к ЕГЭ по информатике 2019-2020](https://stepik.org/course/57271)
 
@@ -10342,7 +10342,7 @@
 
 1. [Кейс-проектирование](https://stepik.org/course/57277)
 
-1. [StartIT - Программирование (С++) ](https://stepik.org/course/57278)
+1. [StartIT - Программирование (С++)](https://stepik.org/course/57278)
 
 1. [программирование для даунов](https://stepik.org/course/57292)
 
@@ -10408,7 +10408,7 @@
 
 1. [Синтез искусств в русской литературе XX-XXI веков](https://stepik.org/course/57442)
 
-1. [ ТЕСТ-ДРАЙВ ЕГЭ ](https://stepik.org/course/57447)
+1. [ ТЕСТ-ДРАЙВ ЕГЭ](https://stepik.org/course/57447)
 
 1. [[In-progress] Machine Learning in Biology](https://stepik.org/course/57451)
 
@@ -10446,7 +10446,7 @@
 
 1. [Входная контрольная работа по истории. 10 класс](https://stepik.org/course/57530)
 
-1. [База знаний заемщика ](https://stepik.org/course/57531)
+1. [База знаний заемщика](https://stepik.org/course/57531)
 
 1. [История исторической науки](https://stepik.org/course/57534)
 
@@ -10516,7 +10516,7 @@
 
 1. [волосы](https://stepik.org/course/57683)
 
-1. [Мини курс разговорного английского языка для начинающих ](https://stepik.org/course/57686)
+1. [Мини курс разговорного английского языка для начинающих](https://stepik.org/course/57686)
 
 1. ["Китайский для начинающих"](https://stepik.org/course/57687)
 
@@ -10526,7 +10526,7 @@
 
 1. [Русско-японская война 1904-1905 гг.](https://stepik.org/course/57696)
 
-1. [Великая Отечественная война ](https://stepik.org/course/57697)
+1. [Великая Отечественная война](https://stepik.org/course/57697)
 
 1. [Основы работы в 1С:Документооборот](https://stepik.org/course/57698)
 
@@ -10564,7 +10564,7 @@
 
 1. [Командообразование и сплочение младших школьников](https://stepik.org/course/57807)
 
-1. [Люди говорят ](https://stepik.org/course/57808)
+1. [Люди говорят](https://stepik.org/course/57808)
 
 1. [Пробный тест для подготовки к Олимпиаде "Траектория Будущего"](https://stepik.org/course/57810)
 
@@ -10586,7 +10586,7 @@
 
 1. [[АРХИВ]Deep Learning (осень 2019-2020): базовый поток](https://stepik.org/course/57839)
 
-1. [ЕГЭ по информатике ](https://stepik.org/course/57840)
+1. [ЕГЭ по информатике](https://stepik.org/course/57840)
 
 1. [ОГЭ Информатика](https://stepik.org/course/57841)
 
@@ -10610,9 +10610,9 @@
 
 1. [математика для 3 класса](https://stepik.org/course/57902)
 
-1. [ ТЕСТ-ДРАЙВ ЕГЭ ](https://stepik.org/course/57907)
+1. [ ТЕСТ-ДРАЙВ ЕГЭ](https://stepik.org/course/57907)
 
-1. [ ТЕСТ-ДРАЙВ ЕГЭ ](https://stepik.org/course/57908)
+1. [ ТЕСТ-ДРАЙВ ЕГЭ](https://stepik.org/course/57908)
 
 1. [Аттестационный тест по технологиям распределенного реестра](https://stepik.org/course/57910)
 
@@ -10650,7 +10650,7 @@
 
 1. [Английский язык 3 класс, подготовительный курс](https://stepik.org/course/57960)
 
-1. [Business English ](https://stepik.org/course/57962)
+1. [Business English](https://stepik.org/course/57962)
 
 1. [холодная война](https://stepik.org/course/57963)
 
@@ -10708,7 +10708,7 @@
 
 1. [Россия в Первой мировой войне](https://stepik.org/course/58069)
 
-1. [Тело лидера ](https://stepik.org/course/58070)
+1. [Тело лидера](https://stepik.org/course/58070)
 
 1. [CHEM NIS SELF PREPARATION](https://stepik.org/course/58078)
 
@@ -10764,7 +10764,7 @@
 
 1. [HSE - программная инженерия](https://stepik.org/course/58284)
 
-1. [TEST - HSE NN - 19SE Contests ](https://stepik.org/course/58292)
+1. [TEST - HSE NN - 19SE Contests](https://stepik.org/course/58292)
 
 1. [INF101 Einführung in die Informatik (WS2019)](https://stepik.org/course/58294)
 
@@ -10868,7 +10868,7 @@
 
 1. [SQL Основы](https://stepik.org/course/58619)
 
-1. [FPMI Computer Science ](https://stepik.org/course/58620)
+1. [FPMI Computer Science](https://stepik.org/course/58620)
 
 1. [Курс 12. Программа лояльности](https://stepik.org/course/58629)
 
@@ -10928,7 +10928,7 @@
 
 1. [Основные свойства функции](https://stepik.org/course/58821)
 
-1. [Информатика ](https://stepik.org/course/58822)
+1. [Информатика](https://stepik.org/course/58822)
 
 1. [Графики функций](https://stepik.org/course/58823)
 
@@ -11006,7 +11006,7 @@
 
 1. [Уравнения](https://stepik.org/course/58945)
 
-1. [Квадратные уравнения ](https://stepik.org/course/58946)
+1. [Квадратные уравнения](https://stepik.org/course/58946)
 
 1. [Дроби](https://stepik.org/course/58947)
 
@@ -11040,7 +11040,7 @@
 
 1. [Логика](https://stepik.org/course/58978)
 
-1. [GGO, Netzwerke und Internet 2019 ](https://stepik.org/course/58989)
+1. [GGO, Netzwerke und Internet 2019](https://stepik.org/course/58989)
 
 1. ["Внеклассное чтение" на английском языке](https://stepik.org/course/58991)
 
@@ -11070,13 +11070,13 @@
 
 1. [Сжатие информации](https://stepik.org/course/59020)
 
-1. [Оказание первой помощи ](https://stepik.org/course/59036)
+1. [Оказание первой помощи](https://stepik.org/course/59036)
 
 1. [Креативность и инновации](https://stepik.org/course/59037)
 
 1. [Борьба самбо для начинающих](https://stepik.org/course/59049)
 
-1. [Самбо для начинающих ](https://stepik.org/course/59057)
+1. [Самбо для начинающих](https://stepik.org/course/59057)
 
 1. [Тренировка от Пола Уэйда(сильнейшего заключённого в мире)](https://stepik.org/course/59080)
 
@@ -11156,9 +11156,9 @@
 
 1. [Delphi-де  бағдарламалауды ерте оқыту](https://stepik.org/course/59283)
 
-1. [Algoritmos de Bioinformática ](https://stepik.org/course/59287)
+1. [Algoritmos de Bioinformática](https://stepik.org/course/59287)
 
-1. [Сравнение налога на роскошь (богатство) в России и Франции ](https://stepik.org/course/59295)
+1. [Сравнение налога на роскошь (богатство) в России и Франции](https://stepik.org/course/59295)
 
 1. [Мир аддитивных технологий. Вводный курс](https://stepik.org/course/59303)
 
@@ -11176,7 +11176,7 @@
 
 1. [физика](https://stepik.org/course/59372)
 
-1. [молекулярная физика ](https://stepik.org/course/59373)
+1. [молекулярная физика](https://stepik.org/course/59373)
 
 1. [Физика атома и атомного ядра](https://stepik.org/course/59375)
 
@@ -11210,7 +11210,7 @@
 
 1. [Онлайн олимпиада InnoStar по информатике 3 вариант](https://stepik.org/course/59454)
 
-1. [История развитие физической культуры как дисциплины. ](https://stepik.org/course/59466)
+1. [История развитие физической культуры как дисциплины.](https://stepik.org/course/59466)
 
 1. [Физическая культура, спорт и фитнес](https://stepik.org/course/59467)
 
@@ -11222,11 +11222,11 @@
 
 1. [Национальные стили ведения переговоров](https://stepik.org/course/59490)
 
-1. [Настольный теннис ](https://stepik.org/course/59496)
+1. [Настольный теннис](https://stepik.org/course/59496)
 
-1. [Спортивный этикет. ](https://stepik.org/course/59499)
+1. [Спортивный этикет.](https://stepik.org/course/59499)
 
-1. [Fluent English ](https://stepik.org/course/59503)
+1. [Fluent English](https://stepik.org/course/59503)
 
 1. [Innopolis Open in Mathematics (по Математике), Grade (Класс) 9](https://stepik.org/course/59516)
 
@@ -11272,7 +11272,7 @@
 
 1. [Лаборатория навыков будущего](https://stepik.org/course/59612)
 
-1. [TEST - HSE NN - 18SE Contests ](https://stepik.org/course/59613)
+1. [TEST - HSE NN - 18SE Contests](https://stepik.org/course/59613)
 
 1. [Geometry 9th grade (NURORDA) 2nd term](https://stepik.org/course/59615)
 
@@ -11286,7 +11286,7 @@
 
 1. [International Olympiad 你的第一次成功 2020 信息技术](https://stepik.org/course/59650)
 
-1. [Olympiad "“Thành công đầu tiên” 2020 Công nghệ thông tin ](https://stepik.org/course/59652)
+1. [Olympiad "“Thành công đầu tiên” 2020 Công nghệ thông tin](https://stepik.org/course/59652)
 
 1. [International Olympiad "Your First success" 2020 Chemistry](https://stepik.org/course/59653)
 
@@ -11364,7 +11364,7 @@
 
 1. [Нейротехнологии и искусственный интеллект. Финал.](https://stepik.org/course/59871)
 
-1. [Innopolis Open in Mathematics (по Математике), Grade (Класс) 10 ](https://stepik.org/course/59872)
+1. [Innopolis Open in Mathematics (по Математике), Grade (Класс) 10](https://stepik.org/course/59872)
 
 1. [Innopolis Open in Mathematics (по Математике), Grade (Класс) 11](https://stepik.org/course/59873)
 
@@ -11410,7 +11410,7 @@
 
 1. [ОГЭ 2020 / 1 месяц (№1-5) / 2 поток](https://stepik.org/course/60012)
 
-1. [ Начинающий  спортсмен ](https://stepik.org/course/60020)
+1. [ Начинающий  спортсмен](https://stepik.org/course/60020)
 
 1. [Лёгкая атлетика. Основные виды спорта.](https://stepik.org/course/60021)
 
@@ -11418,7 +11418,7 @@
 
 1. [Универсальные единоборства](https://stepik.org/course/60028)
 
-1. [Универсальная разминка перед тренировкой ](https://stepik.org/course/60035)
+1. [Универсальная разминка перед тренировкой](https://stepik.org/course/60035)
 
 1. [Специальная разминка  перед тренировкой по гребле](https://stepik.org/course/60036)
 
@@ -11452,7 +11452,7 @@
 
 1. [Delphi](https://stepik.org/course/60103)
 
-1. [Курс для начинающих лыжников ](https://stepik.org/course/60109)
+1. [Курс для начинающих лыжников](https://stepik.org/course/60109)
 
 1. [School Football](https://stepik.org/course/60110)
 
@@ -11488,7 +11488,7 @@
 
 1. [Фальсификация истории Второй мировой войны](https://stepik.org/course/60194)
 
-1. [Олимпиада Innopolis IT РОСТ по математике, 9 класс ](https://stepik.org/course/60199)
+1. [Олимпиада Innopolis IT РОСТ по математике, 9 класс](https://stepik.org/course/60199)
 
 1. [Основы финансовой грамотности](https://stepik.org/course/60200)
 
@@ -11578,7 +11578,7 @@
 
 1. [Подготовка к ЕГЭ 10С](https://stepik.org/course/60462)
 
-1. [Всеобщая история и история России ](https://stepik.org/course/60464)
+1. [Всеобщая история и история России](https://stepik.org/course/60464)
 
 1. [Методология социологического исследования](https://stepik.org/course/60472)
 
@@ -11634,7 +11634,7 @@
 
 1. ["КОМПЬЮТЕР"](https://stepik.org/course/60570)
 
-1. [Russian as a foreign language. For beginners. ](https://stepik.org/course/60571)
+1. [Russian as a foreign language. For beginners.](https://stepik.org/course/60571)
 
 1. [История зарубежной литературы (конец XIX – начало XXI в.)](https://stepik.org/course/60573)
 
@@ -11644,7 +11644,7 @@
 
 1. [SGBD 1](https://stepik.org/course/60581)
 
-1. [мат ](https://stepik.org/course/60582)
+1. [мат](https://stepik.org/course/60582)
 
 1. [Математика](https://stepik.org/course/60583)
 
@@ -11688,9 +11688,9 @@
 
 1. [Курсы быстрого письма](https://stepik.org/course/60627)
 
-1. [Olympiad "“Thành công đầu tiên” 2020 •	Khoa học tự nhiên ](https://stepik.org/course/60630)
+1. [Olympiad "“Thành công đầu tiên” 2020 •	Khoa học tự nhiên](https://stepik.org/course/60630)
 
-1. [Olympiad “Thành công đầu tiên” 2020 •	Khoa học kỹ thuật ](https://stepik.org/course/60632)
+1. [Olympiad “Thành công đầu tiên” 2020 •	Khoa học kỹ thuật](https://stepik.org/course/60632)
 
 1. ["ЭкстроЛитНа 100"](https://stepik.org/course/60634)
 
@@ -11748,7 +11748,7 @@
 
 1. [Основы тренингов](https://stepik.org/course/60801)
 
-1. [Урок ](https://stepik.org/course/60806)
+1. [Урок](https://stepik.org/course/60806)
 
 1. [Подготовка к ОГЭ. Английский язык.](https://stepik.org/course/60808)
 
@@ -11800,7 +11800,7 @@
 
 1. ["Системы счисления"](https://stepik.org/course/60952)
 
-1. [Введение в Python. ](https://stepik.org/course/60965)
+1. [Введение в Python.](https://stepik.org/course/60965)
 
 1. [Компьютерная графика](https://stepik.org/course/60970)
 
@@ -11850,7 +11850,7 @@
 
 1. [Путешествие по временам немецкого глагола!](https://stepik.org/course/61086)
 
-1. [Знакомство с лепкой из глины. ](https://stepik.org/course/61092)
+1. [Знакомство с лепкой из глины.](https://stepik.org/course/61092)
 
 1. [Арифметический квадратный корень](https://stepik.org/course/61094)
 
@@ -11886,7 +11886,7 @@
 
 1. [Электромагнитные явления](https://stepik.org/course/61176)
 
-1. [Плавание: основы знаний ](https://stepik.org/course/61178)
+1. [Плавание: основы знаний](https://stepik.org/course/61178)
 
 1. [Основы финансовой грамотности](https://stepik.org/course/61179)
 
@@ -11894,7 +11894,7 @@
 
 1. [Творческий кризис](https://stepik.org/course/61184)
 
-1. [утренняя зарядка ](https://stepik.org/course/61198)
+1. [утренняя зарядка](https://stepik.org/course/61198)
 
 1. [Правильное питание](https://stepik.org/course/61202)
 
@@ -11912,7 +11912,7 @@
 
 1. [Правоведение](https://stepik.org/course/61227)
 
-1. [Task-Based CTF для новичков ](https://stepik.org/course/61237)
+1. [Task-Based CTF для новичков](https://stepik.org/course/61237)
 
 1. [Треугольник](https://stepik.org/course/61246)
 
@@ -11936,7 +11936,7 @@
 
 1. [How To Leave An Unhealthy Marriage](https://stepik.org/course/61282)
 
-1. [Основные правила правильного питания ](https://stepik.org/course/61288)
+1. [Основные правила правильного питания](https://stepik.org/course/61288)
 
 1. [Тест](https://stepik.org/course/61289)
 
@@ -11964,7 +11964,7 @@
 
 1. [КПК](https://stepik.org/course/61335)
 
-1. [Бизнес прошлого, что полезно,а что мешало/ет прогрессу ](https://stepik.org/course/61340)
+1. [Бизнес прошлого, что полезно,а что мешало/ет прогрессу](https://stepik.org/course/61340)
 
 1. [География 5 класс](https://stepik.org/course/61342)
 
@@ -12044,7 +12044,7 @@
 
 1. [Великие имена отечественных композиторов ХХ века.](https://stepik.org/course/61526)
 
-1. [Разделяй и улучшай ](https://stepik.org/course/61533)
+1. [Разделяй и улучшай](https://stepik.org/course/61533)
 
 1. [Технологические процессы формообразования и инструмент](https://stepik.org/course/61535)
 
@@ -12056,7 +12056,7 @@
 
 1. [Пособие для самообучения игры на гитаре](https://stepik.org/course/61552)
 
-1. [Тест на знание времен Present Simple и Present Continuous ](https://stepik.org/course/61555)
+1. [Тест на знание времен Present Simple и Present Continuous](https://stepik.org/course/61555)
 
 1. [Найди свой профиль](https://stepik.org/course/61557)
 
@@ -12074,7 +12074,7 @@
 
 1. [Информационная безопасность](https://stepik.org/course/61583)
 
-1. [Курс по интересам ](https://stepik.org/course/61587)
+1. [Курс по интересам](https://stepik.org/course/61587)
 
 1. [Управление территориальными кластерами](https://stepik.org/course/61589)
 
@@ -12114,7 +12114,7 @@
 
 1. [Экологический контроль и надзор](https://stepik.org/course/61663)
 
-1. [ИТОГОВЫЙ ТЕСТ КАНДИДАТА КОМПАНИИ PREMIERA ](https://stepik.org/course/61664)
+1. [ИТОГОВЫЙ ТЕСТ КАНДИДАТА КОМПАНИИ PREMIERA](https://stepik.org/course/61664)
 
 1. [Лабораторная работа -9 кл 45](https://stepik.org/course/61666)
 
@@ -12166,13 +12166,13 @@
 
 1. [Пакет курсов Mindbox Tutorial](https://stepik.org/course/61736)
 
-1. [Стать лучшей версией себя ](https://stepik.org/course/61737)
+1. [Стать лучшей версией себя](https://stepik.org/course/61737)
 
 1. [Пакет курсов для менеджеров Mindbox](https://stepik.org/course/61739)
 
 1. [Основы конституционного права Российской Федерации](https://stepik.org/course/61740)
 
-1. [Everyday life in England ](https://stepik.org/course/61746)
+1. [Everyday life in England](https://stepik.org/course/61746)
 
 1. [Веб-квест "Новостные заголовки"](https://stepik.org/course/61754)
 
@@ -12218,7 +12218,7 @@
 
 1. [Отборочная олимпиада на смену «Цифровой акселератор»](https://stepik.org/course/61847)
 
-1. [Баскетбол ](https://stepik.org/course/61850)
+1. [Баскетбол](https://stepik.org/course/61850)
 
 1. [Mersedes-benz w124](https://stepik.org/course/61854)
 
@@ -12282,7 +12282,7 @@
 
 1. [Юные помощники ЮИД.](https://stepik.org/course/61938)
 
-1. [Азбука дорожного движения ](https://stepik.org/course/61939)
+1. [Азбука дорожного движения](https://stepik.org/course/61939)
 
 1. [Экологическое воспитание учащихся.](https://stepik.org/course/61940)
 
@@ -12310,7 +12310,7 @@
 
 1. [8th grade charge](https://stepik.org/course/62000)
 
-1. [Спортивная гигиена ](https://stepik.org/course/62002)
+1. [Спортивная гигиена](https://stepik.org/course/62002)
 
 1. [Python Kurs 2020 - Deutsch](https://stepik.org/course/62015)
 
@@ -12364,7 +12364,7 @@
 
 1. [Шахматная школа](https://stepik.org/course/62146)
 
-1. [The Baikal Seal ](https://stepik.org/course/62159)
+1. [The Baikal Seal](https://stepik.org/course/62159)
 
 1. [Джеффри Уэст "Масштаб" Курс по книге для книжного клуба.](https://stepik.org/course/62161)
 
@@ -12394,7 +12394,7 @@
 
 1. [Как сделать слайм своими руками](https://stepik.org/course/62257)
 
-1. [Карманный справочник модели ](https://stepik.org/course/62261)
+1. [Карманный справочник модели](https://stepik.org/course/62261)
 
 1. [Фонетический (звуко-буквенный) разбор слова](https://stepik.org/course/62262)
 
@@ -12402,9 +12402,9 @@
 
 1. [Dream Physics (Kazakh-English)](https://stepik.org/course/62264)
 
-1. [Copy of Введение в  программирование на Python ](https://stepik.org/course/62281)
+1. [Copy of Введение в  программирование на Python](https://stepik.org/course/62281)
 
-1. [Лексический практикум по теме "Healthy lifestyle" ](https://stepik.org/course/62297)
+1. [Лексический практикум по теме "Healthy lifestyle"](https://stepik.org/course/62297)
 
 1. [Обособленные и необособленные члены предложения](https://stepik.org/course/62301)
 
@@ -12478,7 +12478,7 @@
 
 1. [Аттестация](https://stepik.org/course/62448)
 
-1. [Гражданская война ](https://stepik.org/course/62450)
+1. [Гражданская война](https://stepik.org/course/62450)
 
 1. [База вопросов](https://stepik.org/course/62451)
 
@@ -12500,9 +12500,9 @@
 
 1. [Входная контрольная работа](https://stepik.org/course/62498)
 
-1. [Курс по адаптивной физкультуре для родителей детей с ОВЗ. ](https://stepik.org/course/62518)
+1. [Курс по адаптивной физкультуре для родителей детей с ОВЗ.](https://stepik.org/course/62518)
 
-1. [10 важных тем для тех, кто начинает изучать немецкий язык. ](https://stepik.org/course/62522)
+1. [10 важных тем для тех, кто начинает изучать немецкий язык.](https://stepik.org/course/62522)
 
 1. [Управление проектами государственно-частного партнерства](https://stepik.org/course/62543)
 
@@ -12510,7 +12510,7 @@
 
 1. [Обучение Gleam Controll и Gleam](https://stepik.org/course/62548)
 
-1. [Теоретические знания о теннисе  ](https://stepik.org/course/62556)
+1. [Теоретические знания о теннисе](https://stepik.org/course/62556)
 
 1. [История возникновения и развития тхэквондо](https://stepik.org/course/62559)
 
@@ -12542,7 +12542,7 @@
 
 1. [Литература средних веков](https://stepik.org/course/62630)
 
-1. [Музеи мира ](https://stepik.org/course/62638)
+1. [Музеи мира](https://stepik.org/course/62638)
 
 1. [Готика Средневековья](https://stepik.org/course/62639)
 
@@ -12614,7 +12614,7 @@
 
 1. [Русский язык (3 класс)](https://stepik.org/course/62802)
 
-1. [Программирование на RxJava 2.0 для Android. ](https://stepik.org/course/62807)
+1. [Программирование на RxJava 2.0 для Android.](https://stepik.org/course/62807)
 
 1. [Создание ментальных карт в начальной школе](https://stepik.org/course/62818)
 
@@ -12644,7 +12644,7 @@
 
 1. [Copy of Ушу](https://stepik.org/course/62867)
 
-1. [Изобразительное искусство ](https://stepik.org/course/62879)
+1. [Изобразительное искусство](https://stepik.org/course/62879)
 
 1. [Зимний астрономический интенсив](https://stepik.org/course/62882)
 
@@ -12696,7 +12696,7 @@
 
 1. [Создание QR-кода](https://stepik.org/course/63024)
 
-1. [Идеальное тело с помощью правильного питания ](https://stepik.org/course/63029)
+1. [Идеальное тело с помощью правильного питания](https://stepik.org/course/63029)
 
 1. [Навигатор безопасности активного поколения](https://stepik.org/course/63033)
 
@@ -12742,7 +12742,7 @@
 
 1. [BIBLE COURSE 1-ETERNAL SALVATION](https://stepik.org/course/63124)
 
-1. [ Курс C# для чайников ](https://stepik.org/course/63126)
+1. [ Курс C# для чайников](https://stepik.org/course/63126)
 
 1. [Информатика - Всё для чайников](https://stepik.org/course/63127)
 
@@ -12788,7 +12788,7 @@
 
 1. [Программирование на Python. Начало.](https://stepik.org/course/63223)
 
-1. [Основы безопасности жизнедеятельности ](https://stepik.org/course/63237)
+1. [Основы безопасности жизнедеятельности](https://stepik.org/course/63237)
 
 1. ["Табличный процессор" с использованием разноуровневых заданий](https://stepik.org/course/63258)
 
@@ -12818,11 +12818,11 @@
 
 1. [Произношение 1-4 класс](https://stepik.org/course/63312)
 
-1. [Динозавроведенье ](https://stepik.org/course/63313)
+1. [Динозавроведенье](https://stepik.org/course/63313)
 
 1. [Отбор в Сәләт-Санак 2020](https://stepik.org/course/63317)
 
-1. [История футбола ](https://stepik.org/course/63346)
+1. [История футбола](https://stepik.org/course/63346)
 
 1. [Introduction to Programming BSB](https://stepik.org/course/63359)
 
@@ -12858,7 +12858,7 @@
 
 1. [Обучение настольному теннису для начинающих за 5 шагов](https://stepik.org/course/63477)
 
-1. [Стратегии инвестирования ](https://stepik.org/course/63481)
+1. [Стратегии инвестирования](https://stepik.org/course/63481)
 
 1. [Баскетбол](https://stepik.org/course/63487)
 
@@ -12930,11 +12930,11 @@
 
 1. [7 в класс](https://stepik.org/course/63626)
 
-1. [Литература первой половины XIX века ](https://stepik.org/course/63639)
+1. [Литература первой половины XIX века](https://stepik.org/course/63639)
 
 1. [Методика обучения футболу](https://stepik.org/course/63641)
 
-1. [Упражнения по баскетболу ](https://stepik.org/course/63674)
+1. [Упражнения по баскетболу](https://stepik.org/course/63674)
 
 1. [Воспитание отзывчивости у дошкольников](https://stepik.org/course/63681)
 
@@ -12964,7 +12964,7 @@
 
 1. [Основные понятия философии](https://stepik.org/course/63724)
 
-1. [Баскетбол ](https://stepik.org/course/63725)
+1. [Баскетбол](https://stepik.org/course/63725)
 
 1. [Введение в философию](https://stepik.org/course/63726)
 
@@ -13010,7 +13010,7 @@
 
 1. [Информатика 9-10 класс](https://stepik.org/course/63814)
 
-1. [Легкая атлетика ](https://stepik.org/course/63815)
+1. [Легкая атлетика](https://stepik.org/course/63815)
 
 1. [За страницами учебника математики.](https://stepik.org/course/63827)
 
@@ -13030,7 +13030,7 @@
 
 1. [Грамматика английского языка для медиков и фармацевтов – 2](https://stepik.org/course/63884)
 
-1. [Всё о хоккее ](https://stepik.org/course/63897)
+1. [Всё о хоккее](https://stepik.org/course/63897)
 
 1. [Биологические ритмы и адаптация лыжников к физической культуре](https://stepik.org/course/63900)
 
@@ -13058,7 +13058,7 @@
 
 1. ["Моя вторая профессия - 2020". Начальник лагеря](https://stepik.org/course/63969)
 
-1. [Системи керування базами даних ](https://stepik.org/course/63981)
+1. [Системи керування базами даних](https://stepik.org/course/63981)
 
 1. [Что важно знать о лекарствах: обсуждаем по-английски](https://stepik.org/course/63982)
 
@@ -13078,7 +13078,7 @@
 
 1. [Стереотип движения. Автоматизм нашего тела.](https://stepik.org/course/64031)
 
-1. [Развитие координационных способностей средствами баскетбола ](https://stepik.org/course/64043)
+1. [Развитие координационных способностей средствами баскетбола](https://stepik.org/course/64043)
 
 1. [как заработать только с помощью линий тренда](https://stepik.org/course/64049)
 
@@ -13130,7 +13130,7 @@
 
 1. [iSay](https://stepik.org/course/64202)
 
-1. [Лабораторный практикум. Pascal/Pyathon/C++ ](https://stepik.org/course/64205)
+1. [Лабораторный практикум. Pascal/Pyathon/C++](https://stepik.org/course/64205)
 
 1. [Создание MVC фреймворка PHP](https://stepik.org/course/64206)
 
@@ -13168,13 +13168,13 @@
 
 1. [Бокс](https://stepik.org/course/64316)
 
-1. [ТРЕНИНГ ЭКСТРЕМАЛЬНОГО ВОЖДЕНИЯ ](https://stepik.org/course/64320)
+1. [ТРЕНИНГ ЭКСТРЕМАЛЬНОГО ВОЖДЕНИЯ](https://stepik.org/course/64320)
 
 1. [Параллелограмм. Виды параллелограмма.](https://stepik.org/course/64325)
 
 1. [Информационная безопасность](https://stepik.org/course/64326)
 
-1. [Все о художественной гимнастике ](https://stepik.org/course/64329)
+1. [Все о художественной гимнастике](https://stepik.org/course/64329)
 
 1. [Школа волонтёров чтения](https://stepik.org/course/64331)
 
@@ -13208,7 +13208,7 @@
 
 1. [Лекторий «Музыка рассказывает»](https://stepik.org/course/64446)
 
-1. [Футбол и все о нем ](https://stepik.org/course/64451)
+1. [Футбол и все о нем](https://stepik.org/course/64451)
 
 1. [Быстрый старт в спортивное программирование](https://stepik.org/course/64454)
 
@@ -13218,7 +13218,7 @@
 
 1. [Экономика и Бизнес - современное прочтение Капитала](https://stepik.org/course/64480)
 
-1. [Греко-римская борьба ](https://stepik.org/course/64483)
+1. [Греко-римская борьба](https://stepik.org/course/64483)
 
 1. [Prog1_02](https://stepik.org/course/64502)
 
@@ -13270,7 +13270,7 @@
 
 1. [Электронные таблицы](https://stepik.org/course/64677)
 
-1. [Инвестиции бизнес предпринимательство ](https://stepik.org/course/64678)
+1. [Инвестиции бизнес предпринимательство](https://stepik.org/course/64678)
 
 1. [Автономное существование в природе](https://stepik.org/course/64683)
 
@@ -13312,7 +13312,7 @@
 
 1. [Окружающий мир, 4 класс](https://stepik.org/course/64796)
 
-1. [Биология. Введение в зоологию 7 класс ](https://stepik.org/course/64829)
+1. [Биология. Введение в зоологию 7 класс](https://stepik.org/course/64829)
 
 1. [Основы программирования на C#](https://stepik.org/course/64831)
 
@@ -13340,7 +13340,7 @@
 
 1. [Запуск новичка в бизнес](https://stepik.org/course/64942)
 
-1. [Creatve Writing ](https://stepik.org/course/64943)
+1. [Creatve Writing](https://stepik.org/course/64943)
 
 1. [СОЦИАЛЬНАЯ АДАПТАЦИЯ  И ОСНОВЫ СОЦИАЛЬНО-ПРАВОВЫХ ЗНАНИЙ](https://stepik.org/course/64951)
 
@@ -13396,7 +13396,7 @@
 
 1. [Кадровый электронный документооборот](https://stepik.org/course/65158)
 
-1. [паскаль ](https://stepik.org/course/65159)
+1. [паскаль](https://stepik.org/course/65159)
 
 1. [Спортивное питание и спортивные добавки](https://stepik.org/course/65160)
 
@@ -13462,7 +13462,7 @@
 
 1. [США та Україна: у чому відрізняємось і чого маємо прагнути?](https://stepik.org/course/65354)
 
-1. [100 років української історії ](https://stepik.org/course/65355)
+1. [100 років української історії](https://stepik.org/course/65355)
 
 1. [Легалізація проституції в україні](https://stepik.org/course/65357)
 
@@ -13486,7 +13486,7 @@
 
 1. [Майндкарты](https://stepik.org/course/65404)
 
-1. [Історія Середньовіччя (V–XV ст.) ](https://stepik.org/course/65405)
+1. [Історія Середньовіччя (V–XV ст.)](https://stepik.org/course/65405)
 
 1. [Prog1_04](https://stepik.org/course/65418)
 
@@ -13554,7 +13554,7 @@
 
 1. [Литературное чтение](https://stepik.org/course/65596)
 
-1. [Подготовка к школе ](https://stepik.org/course/65605)
+1. [Подготовка к школе](https://stepik.org/course/65605)
 
 1. [Подготовка к школе](https://stepik.org/course/65606)
 
@@ -13598,7 +13598,7 @@
 
 1. [Математика](https://stepik.org/course/65648)
 
-1. [Начальное образование ](https://stepik.org/course/65651)
+1. [Начальное образование](https://stepik.org/course/65651)
 
 1. [Лёгкая атлетика: бег](https://stepik.org/course/65653)
 
@@ -13614,7 +13614,7 @@
 
 1. [Подготовка к школе, развитие логики и мышления](https://stepik.org/course/65692)
 
-1. [Развивающие игры ](https://stepik.org/course/65694)
+1. [Развивающие игры](https://stepik.org/course/65694)
 
 1. [Подготовка к школе](https://stepik.org/course/65696)
 
@@ -13632,7 +13632,7 @@
 
 1. [Друга світова війна: Історичні міфи](https://stepik.org/course/65774)
 
-1. [Історія України (Розділ І) ](https://stepik.org/course/65777)
+1. [Історія України (Розділ І)](https://stepik.org/course/65777)
 
 1. [Знай правила і виконуй їх](https://stepik.org/course/65780)
 
@@ -13640,7 +13640,7 @@
 
 1. [правила етикету](https://stepik.org/course/65785)
 
-1. [Обществознание ](https://stepik.org/course/65786)
+1. [Обществознание](https://stepik.org/course/65786)
 
 1. [Немецкий язык как второй иностранный](https://stepik.org/course/65789)
 
@@ -13690,7 +13690,7 @@
 
 1. [666детка](https://stepik.org/course/65884)
 
-1. [ТестДемо  СММ курсы                                             ](https://stepik.org/course/65921)
+1. [ТестДемо  СММ курсы](https://stepik.org/course/65921)
 
 1. [Bioinformatics Algorithms @UCLA](https://stepik.org/course/65953)
 
@@ -13750,7 +13750,7 @@
 
 1. [How Does CBD Affect Your Weight?](https://stepik.org/course/66125)
 
-1. [Программирование практическая часть ](https://stepik.org/course/66128)
+1. [Программирование практическая часть](https://stepik.org/course/66128)
 
 1. [Мудрість.](https://stepik.org/course/66139)
 
@@ -13806,7 +13806,7 @@
 
 1. [Surface Water Quality: management and modeling](https://stepik.org/course/66372)
 
-1. [Задачи по программированию из ЕГЭ ](https://stepik.org/course/66375)
+1. [Задачи по программированию из ЕГЭ](https://stepik.org/course/66375)
 
 1. [Python 9 сынып](https://stepik.org/course/66389)
 
@@ -13954,7 +13954,7 @@
 
 1. [Эффективное Управление Автомобилем](https://stepik.org/course/66690)
 
-1. [Практикум по программированию ](https://stepik.org/course/66699)
+1. [Практикум по программированию](https://stepik.org/course/66699)
 
 1. [La lengua español. 8-9 grades.](https://stepik.org/course/66702)
 
@@ -13964,7 +13964,7 @@
 
 1. [Создание интерактивных презентаций по учебным предметам (2020 г)](https://stepik.org/course/66729)
 
-1. [Геоинформационные технологии ](https://stepik.org/course/66732)
+1. [Геоинформационные технологии](https://stepik.org/course/66732)
 
 1. [Программирование](https://stepik.org/course/66735)
 
@@ -13980,7 +13980,7 @@
 
 1. [ Натуральные числа. Делимость натуральных чисел.](https://stepik.org/course/66772)
 
-1. [Секретная история ](https://stepik.org/course/66774)
+1. [Секретная история](https://stepik.org/course/66774)
 
 1. [Настольный теннис](https://stepik.org/course/66777)
 
@@ -14038,13 +14038,13 @@
 
 1. [Работа в MakeHuman (Анфиногентов С.С. ГАОУ АО ДО "РШТ")](https://stepik.org/course/66896)
 
-1. [Курс "Шахматы" Кванториум г. Севастополь. Старшие группы. ](https://stepik.org/course/66898)
+1. [Курс "Шахматы" Кванториум г. Севастополь. Старшие группы.](https://stepik.org/course/66898)
 
 1. [Наноквантум. Проектный модуль (Дедова А.П. ГАОУ АО ДО "РШТ")](https://stepik.org/course/66899)
 
 1. [Анимация в After Effects](https://stepik.org/course/66932)
 
-1. [Математика ОГЭ - 9 класс. Самостоятельная подготовка ](https://stepik.org/course/66938)
+1. [Математика ОГЭ - 9 класс. Самостоятельная подготовка](https://stepik.org/course/66938)
 
 1. [Программируем с Alice (2 год)](https://stepik.org/course/66954)
 
@@ -14052,7 +14052,7 @@
 
 1. [Для 5 классов. Биология.](https://stepik.org/course/66987)
 
-1. [Репродуктивная система ](https://stepik.org/course/66989)
+1. [Репродуктивная система](https://stepik.org/course/66989)
 
 1. [Робототехника](https://stepik.org/course/66996)
 
@@ -14090,7 +14090,7 @@
 
 1. [Эксплуатация котельного оборудования](https://stepik.org/course/67084)
 
-1. [Подготовка к ОГЭ по английскому языку. Лексика. ](https://stepik.org/course/67094)
+1. [Подготовка к ОГЭ по английскому языку. Лексика.](https://stepik.org/course/67094)
 
 1. [Физика](https://stepik.org/course/67098)
 
@@ -14186,7 +14186,7 @@
 
 1. [Обществознание 7 класс](https://stepik.org/course/67359)
 
-1. [legal english is funny ](https://stepik.org/course/67363)
+1. [legal english is funny](https://stepik.org/course/67363)
 
 1. [Счетные устройства](https://stepik.org/course/67364)
 
@@ -14246,7 +14246,7 @@
 
 1. [The United Kingdom. Famous People.](https://stepik.org/course/67506)
 
-1. [География ](https://stepik.org/course/67511)
+1. [География](https://stepik.org/course/67511)
 
 1. [Информатика и ИКТ в профессиональной деятельности](https://stepik.org/course/67532)
 
@@ -14262,7 +14262,7 @@
 
 1. [Наноквантум. Углубленный модуль. (Пикулина Н.Ю. ГАОУ АО ДО "РШТ"](https://stepik.org/course/67550)
 
-1. [Компьютерная графика и 3D-печать ](https://stepik.org/course/67551)
+1. [Компьютерная графика и 3D-печать](https://stepik.org/course/67551)
 
 1. [Биоквантум вводный модуль (Батаева Ю.В., ГАОУ АО ДО "РШТ"](https://stepik.org/course/67558)
 
@@ -14276,7 +14276,7 @@
 
 1. [Технология. Прикладное творчество 6 класс](https://stepik.org/course/67569)
 
-1. [Дизайн интерьера ](https://stepik.org/course/67571)
+1. [Дизайн интерьера](https://stepik.org/course/67571)
 
 1. [Медиаквантум](https://stepik.org/course/67575)
 
@@ -14294,7 +14294,7 @@
 
 1. [Дистанционное обучение по математике. 5 класс 4 четверть.](https://stepik.org/course/67622)
 
-1. [Сера и ее соединения ](https://stepik.org/course/67623)
+1. [Сера и ее соединения](https://stepik.org/course/67623)
 
 1. [Решение задач по теме "Расчет по уравнению реакции" 8 класс](https://stepik.org/course/67632)
 
@@ -14348,13 +14348,13 @@
 
 1. [Разработка модели космического аппарата на базе Arduino UNO](https://stepik.org/course/67779)
 
-1. [Лаборатория детского кино 2 группа ](https://stepik.org/course/67781)
+1. [Лаборатория детского кино 2 группа](https://stepik.org/course/67781)
 
 1. [Лаборатория детского кино 2 год](https://stepik.org/course/67783)
 
 1. [progalap02](https://stepik.org/course/67787)
 
-1. [Инженерно-техническая подготовка. Модуль "Инженерная графика" ](https://stepik.org/course/67788)
+1. [Инженерно-техническая подготовка. Модуль "Инженерная графика"](https://stepik.org/course/67788)
 
 1. [Защита информации. Шифрование данных](https://stepik.org/course/67803)
 
@@ -14402,7 +14402,7 @@
 
 1. [vvccxx](https://stepik.org/course/67943)
 
-1. [Цех35 2 год ](https://stepik.org/course/67944)
+1. [Цех35 2 год](https://stepik.org/course/67944)
 
 1. [(НО) Программирование](https://stepik.org/course/67946)
 
@@ -14410,13 +14410,13 @@
 
 1. [Человек и его здоровье. Михальская Т.С.](https://stepik.org/course/67956)
 
-1. [Основы экологии и исследовательской деятельности, Гореликова Е. ](https://stepik.org/course/67957)
+1. [Основы экологии и исследовательской деятельности, Гореликова Е.](https://stepik.org/course/67957)
 
 1. [Биология 5 класс](https://stepik.org/course/67960)
 
 1. [Биология 6 класс](https://stepik.org/course/67961)
 
-1. [Фенологические наблюдения в природе, экология растений, Волкова ](https://stepik.org/course/67962)
+1. [Фенологические наблюдения в природе, экология растений, Волкова](https://stepik.org/course/67962)
 
 1. [Графический редактор CorelDRAW](https://stepik.org/course/67969)
 
@@ -14424,13 +14424,13 @@
 
 1. [ЮнКорр](https://stepik.org/course/67978)
 
-1. [Человек и его здоровье (Пантюхина Е.В.) ](https://stepik.org/course/67980)
+1. [Человек и его здоровье (Пантюхина Е.В.)](https://stepik.org/course/67980)
 
 1. [ОП.01 Педагогика](https://stepik.org/course/67981)
 
 1. [Мир вокруг нас (Пантюхина Е.В.)](https://stepik.org/course/67982)
 
-1. [Юные натуралисты (Пантюхина Е.В.) ](https://stepik.org/course/67983)
+1. [Юные натуралисты (Пантюхина Е.В.)](https://stepik.org/course/67983)
 
 1. [Мир вокруг нас (Поджунас Е.И.)](https://stepik.org/course/67989)
 
@@ -14464,7 +14464,7 @@
 
 1. [Музыка273 - 7 класс](https://stepik.org/course/68061)
 
-1. [Предложения с обособленными членами ](https://stepik.org/course/68071)
+1. [Предложения с обособленными членами](https://stepik.org/course/68071)
 
 1. [Физическая культура начальная школа](https://stepik.org/course/68075)
 
@@ -14492,7 +14492,7 @@
 
 1. [Stagiu de practica](https://stepik.org/course/68105)
 
-1. [Цех35 1 год 2 группа ](https://stepik.org/course/68111)
+1. [Цех35 1 год 2 группа](https://stepik.org/course/68111)
 
 1. [Открываем мир природы (Гореликова Е.А.)](https://stepik.org/course/68113)
 
@@ -14518,7 +14518,7 @@
 
 1. [HHS-SEMESTER-SE-2-OPT3-VOLTIJD](https://stepik.org/course/68176)
 
-1. [Оптимус вторая группа ](https://stepik.org/course/68177)
+1. [Оптимус вторая группа](https://stepik.org/course/68177)
 
 1. [Ustaz Digital Teachers](https://stepik.org/course/68203)
 
@@ -14526,19 +14526,19 @@
 
 1. [Prog1_06](https://stepik.org/course/68209)
 
-1. [Повышаем прибыль торговых компаний с размерами от одного склада ](https://stepik.org/course/68221)
+1. [Повышаем прибыль торговых компаний с размерами от одного склада](https://stepik.org/course/68221)
 
 1. [Геометрия по Киселеву. Раздел I  Планиметрия](https://stepik.org/course/68239)
 
 1. [Cálculo Integral](https://stepik.org/course/68254)
 
-1. [обществознание ](https://stepik.org/course/68262)
+1. [обществознание](https://stepik.org/course/68262)
 
 1. [Инженерное 3D-проектирование](https://stepik.org/course/68263)
 
 1. [Шахматы для чайников](https://stepik.org/course/68267)
 
-1. [STEAM. Начальная школа. ГБОУ СОШ 213. ](https://stepik.org/course/68282)
+1. [STEAM. Начальная школа. ГБОУ СОШ 213.](https://stepik.org/course/68282)
 
 1. [Совёнок-6](https://stepik.org/course/68297)
 
@@ -14562,7 +14562,7 @@
 
 1. [тестовый курс](https://stepik.org/course/68348)
 
-1. [Разговорный Английский ](https://stepik.org/course/68352)
+1. [Разговорный Английский](https://stepik.org/course/68352)
 
 1. [8 класс. Алгебра. Дистант](https://stepik.org/course/68355)
 
@@ -14622,7 +14622,7 @@
 
 1. [Дистанционный кружок в Кольцово](https://stepik.org/course/68573)
 
-1. [Информатика и ИКТ в профессиональной деятельности ](https://stepik.org/course/68579)
+1. [Информатика и ИКТ в профессиональной деятельности](https://stepik.org/course/68579)
 
 1. [progalap03](https://stepik.org/course/68583)
 
@@ -14826,7 +14826,7 @@
 
 1. [Русская Классическая школа. 1 класс](https://stepik.org/course/69104)
 
-1. [Web - программирование. Создаем собственный сайт. ](https://stepik.org/course/69105)
+1. [Web - программирование. Создаем собственный сайт.](https://stepik.org/course/69105)
 
 1. [МДК 02.03 Продуктивная деятельность дошкольников](https://stepik.org/course/69108)
 
@@ -14866,7 +14866,7 @@
 
 1. [Our favourite English 1 (for first-year students)](https://stepik.org/course/69186)
 
-1. [Введение в химию ](https://stepik.org/course/69188)
+1. [Введение в химию](https://stepik.org/course/69188)
 
 1. [Фармацевтическая технология (промышленная), 4 курс.](https://stepik.org/course/69194)
 
@@ -14926,7 +14926,7 @@
 
 1. [Адский месяц. Русский язык](https://stepik.org/course/69318)
 
-1. [Маркетинг для стоматологии ](https://stepik.org/course/69319)
+1. [Маркетинг для стоматологии](https://stepik.org/course/69319)
 
 1. [информатика 7 класс](https://stepik.org/course/69322)
 
@@ -14982,7 +14982,7 @@
 
 1. [1](https://stepik.org/course/69396)
 
-1. [Общий курс железных дорог ](https://stepik.org/course/69398)
+1. [Общий курс железных дорог](https://stepik.org/course/69398)
 
 1. [Информатика 10А](https://stepik.org/course/69404)
 
@@ -15026,13 +15026,13 @@
 
 1. [Информатика 7 класс](https://stepik.org/course/69467)
 
-1. [English Grammar ](https://stepik.org/course/69469)
+1. [English Grammar](https://stepik.org/course/69469)
 
 1. [Музыка 273 - 4 класс](https://stepik.org/course/69470)
 
 1. [МДК 01.01 Эксплуатация кранов металлургического производства](https://stepik.org/course/69471)
 
-1. [огэ ](https://stepik.org/course/69475)
+1. [огэ](https://stepik.org/course/69475)
 
 1. [Информатика 9 класс](https://stepik.org/course/69487)
 
@@ -15130,7 +15130,7 @@
 
 1. [ЕГЭ](https://stepik.org/course/69680)
 
-1. [Химия ](https://stepik.org/course/69682)
+1. [Химия](https://stepik.org/course/69682)
 
 1. [8 класс Информатика Лицей 67](https://stepik.org/course/69683)
 
@@ -15236,9 +15236,9 @@
 
 1. [10 класс. Ток.](https://stepik.org/course/69939)
 
-1. [Физиология ](https://stepik.org/course/69940)
+1. [Физиология](https://stepik.org/course/69940)
 
-1. [Россия в правление Александра III ](https://stepik.org/course/69942)
+1. [Россия в правление Александра III](https://stepik.org/course/69942)
 
 1. [Математика 5 класс](https://stepik.org/course/69943)
 
@@ -15252,7 +15252,7 @@
 
 1. [Геометрия 8 класс](https://stepik.org/course/69962)
 
-1. [Тренажерный зал русского языка ](https://stepik.org/course/69965)
+1. [Тренажерный зал русского языка](https://stepik.org/course/69965)
 
 1. [Физика 11 класс](https://stepik.org/course/69983)
 
@@ -15260,7 +15260,7 @@
 
 1. [Prog1_08](https://stepik.org/course/69986)
 
-1. [Подготовка к ВПР (1) физика 7 класс 2020 ](https://stepik.org/course/69987)
+1. [Подготовка к ВПР (1) физика 7 класс 2020](https://stepik.org/course/69987)
 
 1. [Экономика 10 класс](https://stepik.org/course/69989)
 
@@ -15304,13 +15304,13 @@
 
 1. [Биология 9 класс](https://stepik.org/course/70090)
 
-1. [Развитие речи. ](https://stepik.org/course/70091)
+1. [Развитие речи.](https://stepik.org/course/70091)
 
 1. [Korean language for beginners](https://stepik.org/course/70096)
 
 1. [Программирование начального уровня. JavaScript](https://stepik.org/course/70099)
 
-1. [Лепка из солёного теста ](https://stepik.org/course/70106)
+1. [Лепка из солёного теста](https://stepik.org/course/70106)
 
 1. [Python: шествие по граблям](https://stepik.org/course/70128)
 
@@ -15358,7 +15358,7 @@
 
 1. [Cooking](https://stepik.org/course/70209)
 
-1. [Ennea universe ](https://stepik.org/course/70210)
+1. [Ennea universe](https://stepik.org/course/70210)
 
 1. [Игровые занятия для детей 2-3 лет](https://stepik.org/course/70212)
 
@@ -15446,7 +15446,7 @@
 
 1. [how to earn money in eSports!](https://stepik.org/course/70398)
 
-1. [Elementary school ](https://stepik.org/course/70399)
+1. [Elementary school](https://stepik.org/course/70399)
 
 1. [Обществознание. Повторение.](https://stepik.org/course/70400)
 
@@ -15460,7 +15460,7 @@
 
 1. [SolidWorks, основы трёхмерного моделирования](https://stepik.org/course/70411)
 
-1. [What to do at home during quarantine?   ](https://stepik.org/course/70413)
+1. [What to do at home during quarantine?](https://stepik.org/course/70413)
 
 1. [История Средних веков.](https://stepik.org/course/70416)
 
@@ -15532,7 +15532,7 @@
 
 1. [Time management: how to learn manage your time?](https://stepik.org/course/70530)
 
-1. [Леттеринг ](https://stepik.org/course/70541)
+1. [Леттеринг](https://stepik.org/course/70541)
 
 1. [CS 110 Online](https://stepik.org/course/70545)
 
@@ -15592,7 +15592,7 @@
 
 1. [Программируем Arduino](https://stepik.org/course/70635)
 
-1. [Математика для семиклассника ](https://stepik.org/course/70638)
+1. [Математика для семиклассника](https://stepik.org/course/70638)
 
 1. [Логарифмы из 1 части ЕГЭ по профильной математике](https://stepik.org/course/70655)
 
@@ -15616,7 +15616,7 @@
 
 1. [Our favourite English 2 (for second-year students)](https://stepik.org/course/70705)
 
-1. [Our favourite English 3 (for third-year students) ](https://stepik.org/course/70707)
+1. [Our favourite English 3 (for third-year students)](https://stepik.org/course/70707)
 
 1. [Свободное погружение в СУБД](https://stepik.org/course/70710)
 
@@ -15692,7 +15692,7 @@
 
 1. [Подготовка к ЕГЭ по математике(2ая часть).](https://stepik.org/course/70895)
 
-1. [Веселый Русский  ](https://stepik.org/course/70896)
+1. [Веселый Русский](https://stepik.org/course/70896)
 
 1. [Introduction for Stromasys and Charon products](https://stepik.org/course/70900)
 
@@ -15708,7 +15708,7 @@
 
 1. [Инфографика для начинающих](https://stepik.org/course/70922)
 
-1. [4 класс Теоретический материал уроков ](https://stepik.org/course/70932)
+1. [4 класс Теоретический материал уроков](https://stepik.org/course/70932)
 
 1. [ehjr](https://stepik.org/course/70934)
 
@@ -15716,7 +15716,7 @@
 
 1. [Квантошахматы Балашиха](https://stepik.org/course/70944)
 
-1. [НАНО ](https://stepik.org/course/70955)
+1. [НАНО](https://stepik.org/course/70955)
 
 1. [Ключи от Доброго Углича](https://stepik.org/course/70956)
 
@@ -15726,13 +15726,13 @@
 
 1. [Геометрия для семиклассников](https://stepik.org/course/70968)
 
-1. [Справочные материалы ](https://stepik.org/course/70969)
+1. [Справочные материалы](https://stepik.org/course/70969)
 
-1. [Методы структурного анализа материалов ](https://stepik.org/course/70973)
+1. [Методы структурного анализа материалов](https://stepik.org/course/70973)
 
-1. [Контрольная работа Физика 10 класс ](https://stepik.org/course/70976)
+1. [Контрольная работа Физика 10 класс](https://stepik.org/course/70976)
 
-1. [BrainDumpsSchool: MS-700 Dumps | Exam Dumps ](https://stepik.org/course/70977)
+1. [BrainDumpsSchool: MS-700 Dumps | Exam Dumps](https://stepik.org/course/70977)
 
 1. [Физика 8 класс](https://stepik.org/course/70980)
 
@@ -15746,7 +15746,7 @@
 
 1. [Классификация неорганических веществ](https://stepik.org/course/71001)
 
-1. [Значение имён  ](https://stepik.org/course/71007)
+1. [Значение имён](https://stepik.org/course/71007)
 
 1. [Reshaping Education: How Technology is helping Combat Academic L](https://stepik.org/course/71012)
 
@@ -15762,7 +15762,7 @@
 
 1. [Растительная клетка - что это?Основы ботаники.](https://stepik.org/course/71034)
 
-1. [StartIT - Развитие мышления ](https://stepik.org/course/71042)
+1. [StartIT - Развитие мышления](https://stepik.org/course/71042)
 
 1. [ПАРИКМАХЕР-УНИВЕРСАЛ](https://stepik.org/course/71046)
 
@@ -15812,13 +15812,13 @@
 
 1. [Эконометрия 2020 NSU](https://stepik.org/course/71162)
 
-1. [Юля Развитие мышления ](https://stepik.org/course/71165)
+1. [Юля Развитие мышления](https://stepik.org/course/71165)
 
 1. [Подготовка к ЕГЭ по русскому языку](https://stepik.org/course/71192)
 
 1. [Умножение и деление десятичных дробей](https://stepik.org/course/71193)
 
-1. [Работа с демоверсией iStom ](https://stepik.org/course/71194)
+1. [Работа с демоверсией iStom](https://stepik.org/course/71194)
 
 1. [Медиа точка](https://stepik.org/course/71208)
 
@@ -15856,7 +15856,7 @@
 
 1. [Python from Scratch](https://stepik.org/course/71291)
 
-1. [Copy of Подготовка к ВПР (1) физика 7 класс 2020 ](https://stepik.org/course/71293)
+1. [Copy of Подготовка к ВПР (1) физика 7 класс 2020](https://stepik.org/course/71293)
 
 1. [Обучение официанта](https://stepik.org/course/71300)
 
@@ -15864,7 +15864,7 @@
 
 1. [Курс молодого бойца online](https://stepik.org/course/71321)
 
-1. [Уроки технологий Аэро ](https://stepik.org/course/71329)
+1. [Уроки технологий Аэро](https://stepik.org/course/71329)
 
 1. [Математика: алгебра, начала математического анализа, геометрия](https://stepik.org/course/71330)
 
@@ -15878,7 +15878,7 @@
 
 1. [Эволюция живой природы (ЕГЭ)](https://stepik.org/course/71361)
 
-1. [Производная ](https://stepik.org/course/71369)
+1. [Производная](https://stepik.org/course/71369)
 
 1. [5 клас тэматычны кантроль](https://stepik.org/course/71375)
 
@@ -15898,7 +15898,7 @@
 
 1. [Признаки равенства треугольников. Геометрия 7 класс](https://stepik.org/course/71409)
 
-1. [География 7 сынып ](https://stepik.org/course/71420)
+1. [География 7 сынып](https://stepik.org/course/71420)
 
 1. [Английский по Skype](https://stepik.org/course/71429)
 
@@ -15956,7 +15956,7 @@
 
 1. [педагоги оо](https://stepik.org/course/71581)
 
-1. [Программирование Scratch ](https://stepik.org/course/71584)
+1. [Программирование Scratch](https://stepik.org/course/71584)
 
 1. [Математика 9](https://stepik.org/course/71586)
 
@@ -15990,7 +15990,7 @@
 
 1. [Идём или едем?](https://stepik.org/course/71653)
 
-1. [Робототехника тестирование 1 год ](https://stepik.org/course/71661)
+1. [Робототехника тестирование 1 год](https://stepik.org/course/71661)
 
 1. [Solid Edge 2020, основы трёхмерного моделирования](https://stepik.org/course/71668)
 
@@ -16076,7 +16076,7 @@
 
 1. [Мысли в пространстве.](https://stepik.org/course/71879)
 
-1. [Робототехника тестирование 2 год ](https://stepik.org/course/71885)
+1. [Робототехника тестирование 2 год](https://stepik.org/course/71885)
 
 1. [Английский для программистов (TOP-500 IT words)](https://stepik.org/course/71889)
 
@@ -16086,7 +16086,7 @@
 
 1. [Пушкин наше всё!](https://stepik.org/course/71920)
 
-1. [Птицы ](https://stepik.org/course/71922)
+1. [Птицы](https://stepik.org/course/71922)
 
 1. [Environmental Issues](https://stepik.org/course/71945)
 
@@ -16096,7 +16096,7 @@
 
 1. [ЕГЭ 27 задания на Python](https://stepik.org/course/71964)
 
-1. [Как украсть сотку ](https://stepik.org/course/71968)
+1. [Как украсть сотку](https://stepik.org/course/71968)
 
 1. [Докторская диссертация](https://stepik.org/course/71980)
 
@@ -16108,7 +16108,7 @@
 
 1. [Химия 8 класс](https://stepik.org/course/71988)
 
-1. [BrainDumpsSchool: 1Z0-1067 Dumps ](https://stepik.org/course/71992)
+1. [BrainDumpsSchool: 1Z0-1067 Dumps](https://stepik.org/course/71992)
 
 1. [Мини-курс повышения квалификации "Электронные средства обучения"](https://stepik.org/course/71994)
 
@@ -16184,11 +16184,11 @@
 
 1. [ИЗО](https://stepik.org/course/72155)
 
-1. [Начальная школа ](https://stepik.org/course/72156)
+1. [Начальная школа](https://stepik.org/course/72156)
 
 1. [Mathematics](https://stepik.org/course/72164)
 
-1. [Постимпрессионизм ](https://stepik.org/course/72166)
+1. [Постимпрессионизм](https://stepik.org/course/72166)
 
 1. [Introduction au langage Java](https://stepik.org/course/72178)
 
@@ -16218,9 +16218,9 @@
 
 1. [Изобразительное искусство](https://stepik.org/course/72242)
 
-1. [Стратегия общения с особенным ребенком: кризис "3 лет" ](https://stepik.org/course/72243)
+1. [Стратегия общения с особенным ребенком: кризис "3 лет"](https://stepik.org/course/72243)
 
-1. [Искусство ](https://stepik.org/course/72256)
+1. [Искусство](https://stepik.org/course/72256)
 
 1. [Солнечная система](https://stepik.org/course/72263)
 
@@ -16228,13 +16228,13 @@
 
 1. [Техника "Сожжение Мысли"](https://stepik.org/course/72276)
 
-1. [Онлайн образование быстрыми шагами. ](https://stepik.org/course/72279)
+1. [Онлайн образование быстрыми шагами.](https://stepik.org/course/72279)
 
 1. [Весенняя олимпиада по РТ для 5с](https://stepik.org/course/72288)
 
 1. [Курс обучения для работников, уполномоченных по ГО и ЧС](https://stepik.org/course/72290)
 
-1. [Туризм для школьников ](https://stepik.org/course/72294)
+1. [Туризм для школьников](https://stepik.org/course/72294)
 
 1. [HADI-цикл тестирования бизнес идеи для стартапа](https://stepik.org/course/72296)
 
@@ -16252,7 +16252,7 @@
 
 1. [Leet Programming](https://stepik.org/course/72339)
 
-1. [Весенняя олимпиада по РТ  ](https://stepik.org/course/72352)
+1. [Весенняя олимпиада по РТ](https://stepik.org/course/72352)
 
 1. [Экзамен](https://stepik.org/course/72355)
 
@@ -16268,7 +16268,7 @@
 
 1. [Английский язык](https://stepik.org/course/72395)
 
-1. [Здоровый образ жизни ](https://stepik.org/course/72411)
+1. [Здоровый образ жизни](https://stepik.org/course/72411)
 
 1. [Математика 3 класс](https://stepik.org/course/72417)
 
@@ -16312,7 +16312,7 @@
 
 1. [Basic First Aid](https://stepik.org/course/72513)
 
-1. [Здоровый образ жизни ](https://stepik.org/course/72516)
+1. [Здоровый образ жизни](https://stepik.org/course/72516)
 
 1. [Создание жилета. Пошаговая инструкция.](https://stepik.org/course/72532)
 
@@ -16332,7 +16332,7 @@
 
 1. [Пожарно-технический минимум](https://stepik.org/course/72553)
 
-1. [Греко-римская и вольная борьба ](https://stepik.org/course/72570)
+1. [Греко-римская и вольная борьба](https://stepik.org/course/72570)
 
 1. [Логопедия](https://stepik.org/course/72578)
 
@@ -16388,11 +16388,11 @@
 
 1. [Реклама и связи с общественностью](https://stepik.org/course/72663)
 
-1. [Жаңа курс (314kz) (Шаблон) ](https://stepik.org/course/72682)
+1. [Жаңа курс (314kz) (Шаблон)](https://stepik.org/course/72682)
 
 1. [Подготовка к олимпиадам](https://stepik.org/course/72688)
 
-1. [В помощь родителям ](https://stepik.org/course/72689)
+1. [В помощь родителям](https://stepik.org/course/72689)
 
 1. [Основы духовно-нравственной культуры народов России (5 класс)](https://stepik.org/course/72690)
 
@@ -16448,7 +16448,7 @@
 
 1. [Финансовые технологии](https://stepik.org/course/72764)
 
-1. [Акриловая живопись ](https://stepik.org/course/72766)
+1. [Акриловая живопись](https://stepik.org/course/72766)
 
 1. [Классическая зарубежная литература (Античность – XIX в.)](https://stepik.org/course/72768)
 
@@ -16460,7 +16460,7 @@
 
 1. [Уборка в шкафу](https://stepik.org/course/72779)
 
-1. [Работа в программе Паинт Paint ](https://stepik.org/course/72784)
+1. [Работа в программе Паинт Paint](https://stepik.org/course/72784)
 
 1. [Английский для всех](https://stepik.org/course/72805)
 
@@ -16474,7 +16474,7 @@
 
 1. [Роспись на джинсах](https://stepik.org/course/72824)
 
-1. [Физическая культура ](https://stepik.org/course/72829)
+1. [Физическая культура](https://stepik.org/course/72829)
 
 1. [Школа вожатых Приморского края 2020](https://stepik.org/course/72833)
 
@@ -16526,13 +16526,13 @@
 
 1. [Жанры аниме и манги](https://stepik.org/course/72936)
 
-1. [Импрессионизм ](https://stepik.org/course/72941)
+1. [Импрессионизм](https://stepik.org/course/72941)
 
 1. [БИОГЕОЦЕНОЗ](https://stepik.org/course/72945)
 
 1. [Мини-курс "Кварц"](https://stepik.org/course/72948)
 
-1. [Подготовка к ОГЭ по математике ](https://stepik.org/course/72953)
+1. [Подготовка к ОГЭ по математике](https://stepik.org/course/72953)
 
 1. [Tkinter Roguelike](https://stepik.org/course/72954)
 
@@ -16558,7 +16558,7 @@
 
 1. [Основы HTML](https://stepik.org/course/73014)
 
-1. [Баланс белого (WB) ](https://stepik.org/course/73015)
+1. [Баланс белого (WB)](https://stepik.org/course/73015)
 
 1. [Географияны оқыту әдістемесінің қазіргі мәселелері](https://stepik.org/course/73018)
 
@@ -16586,7 +16586,7 @@
 
 1. [Знакомство с образовательным конструктором Lego](https://stepik.org/course/73053)
 
-1. [Нескучный дистант ](https://stepik.org/course/73055)
+1. [Нескучный дистант](https://stepik.org/course/73055)
 
 1. [Курс 1](https://stepik.org/course/73062)
 
@@ -16642,7 +16642,7 @@
 
 1. [Коммуникативная безопасность](https://stepik.org/course/73179)
 
-1. [Programare II - C/C++ ](https://stepik.org/course/73182)
+1. [Programare II - C/C++](https://stepik.org/course/73182)
 
 1. [elbook](https://stepik.org/course/73188)
 
@@ -16674,7 +16674,7 @@
 
 1. [Технологии уборка в медицинских организациях](https://stepik.org/course/73231)
 
-1. ["КОД УСПЕХА Продаж"  или "Эффективные вопросы" ](https://stepik.org/course/73247)
+1. ["КОД УСПЕХА Продаж"  или "Эффективные вопросы"](https://stepik.org/course/73247)
 
 1. [В здоровом теле - здоровый дух!](https://stepik.org/course/73254)
 
@@ -16690,7 +16690,7 @@
 
 1. [Решение задач](https://stepik.org/course/73305)
 
-1. [Инклюзивное образование в системе ДОУ ](https://stepik.org/course/73307)
+1. [Инклюзивное образование в системе ДОУ](https://stepik.org/course/73307)
 
 1. [Мир попугаев](https://stepik.org/course/73308)
 
@@ -16728,7 +16728,7 @@
 
 1. [Жостовская роспись](https://stepik.org/course/73383)
 
-1. [Художественно-эстетическое развитие детей 2-3 лет ](https://stepik.org/course/73399)
+1. [Художественно-эстетическое развитие детей 2-3 лет](https://stepik.org/course/73399)
 
 1. [Помыть яблоко](https://stepik.org/course/73401)
 
@@ -16746,7 +16746,7 @@
 
 1. [Медиаграмотность и критическое мышление](https://stepik.org/course/73428)
 
-1. [Региональная стажировочная площадка МКОУ "Уянская СОШ" ](https://stepik.org/course/73429)
+1. [Региональная стажировочная площадка МКОУ "Уянская СОШ"](https://stepik.org/course/73429)
 
 1. [Экология](https://stepik.org/course/73434)
 
@@ -16756,7 +16756,7 @@
 
 1. [test invitation link](https://stepik.org/course/73445)
 
-1. [Copy of Математика для шестиклассника ](https://stepik.org/course/73448)
+1. [Copy of Математика для шестиклассника](https://stepik.org/course/73448)
 
 1. [Психоанализ для жизни](https://stepik.org/course/73463)
 
@@ -16834,7 +16834,7 @@
 
 1. [Безопасность школьников в интернет-пространстве](https://stepik.org/course/73604)
 
-1. [Методика использования систем компьютерной графики при обучении ](https://stepik.org/course/73609)
+1. [Методика использования систем компьютерной графики при обучении](https://stepik.org/course/73609)
 
 1. [Основы дизайна](https://stepik.org/course/73617)
 
@@ -16854,7 +16854,7 @@
 
 1. [Естествознание](https://stepik.org/course/73643)
 
-1. [English grammar ](https://stepik.org/course/73648)
+1. [English grammar](https://stepik.org/course/73648)
 
 1. [Риторика делового общения.](https://stepik.org/course/73649)
 
@@ -16866,7 +16866,7 @@
 
 1. [WorldSkills Russia Juniors LabChemAnalysis](https://stepik.org/course/73672)
 
-1. [строение растительной клетки ](https://stepik.org/course/73675)
+1. [строение растительной клетки](https://stepik.org/course/73675)
 
 1. [Домашние животные](https://stepik.org/course/73676)
 
@@ -16910,7 +16910,7 @@
 
 1. [География](https://stepik.org/course/73800)
 
-1. [МОТИВАЦИЯ НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ У СТУДЕНТОВ ](https://stepik.org/course/73802)
+1. [МОТИВАЦИЯ НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ У СТУДЕНТОВ](https://stepik.org/course/73802)
 
 1. [Контроль качества образовательного процесса](https://stepik.org/course/73811)
 
@@ -16946,7 +16946,7 @@
 
 1. [Корейский Язык. Хангыль.](https://stepik.org/course/73909)
 
-1. [Мир вокруг нас ](https://stepik.org/course/73910)
+1. [Мир вокруг нас](https://stepik.org/course/73910)
 
 1. [Графика](https://stepik.org/course/73911)
 
@@ -16980,7 +16980,7 @@
 
 1. [course tier 10](https://stepik.org/course/73970)
 
-1. [Обучение Английскому всего за 12 дней! ](https://stepik.org/course/73981)
+1. [Обучение Английскому всего за 12 дней!](https://stepik.org/course/73981)
 
 1. [Дошкольное образование](https://stepik.org/course/73988)
 
@@ -17030,7 +17030,7 @@
 
 1. [Основы использования компьютера для медицинских работников-](https://stepik.org/course/74105)
 
-1. [Биология ](https://stepik.org/course/74114)
+1. [Биология](https://stepik.org/course/74114)
 
 1. [Фехтование](https://stepik.org/course/74130)
 
@@ -17046,7 +17046,7 @@
 
 1. [ПДД](https://stepik.org/course/74151)
 
-1. [Становая Тяга ](https://stepik.org/course/74152)
+1. [Становая Тяга](https://stepik.org/course/74152)
 
 1. [ВПР по биологии](https://stepik.org/course/74156)
 
@@ -17082,7 +17082,7 @@
 
 1. [Java - Basics](https://stepik.org/course/74200)
 
-1. [Витамины для всей семьи ](https://stepik.org/course/74201)
+1. [Витамины для всей семьи](https://stepik.org/course/74201)
 
 1. [Экзамен Физика](https://stepik.org/course/74203)
 
@@ -17112,11 +17112,11 @@
 
 1. [Подготовка к ВПР по физической культуре](https://stepik.org/course/74266)
 
-1. [Здоровый образ жизни ](https://stepik.org/course/74267)
+1. [Здоровый образ жизни](https://stepik.org/course/74267)
 
 1. [Copy of Подготовка учеников к ВПР](https://stepik.org/course/74268)
 
-1. [Компьютерная геометрия и графика ](https://stepik.org/course/74284)
+1. [Компьютерная геометрия и графика](https://stepik.org/course/74284)
 
 1. [Основы микроэлектроники. V2 (ГАОУ АО ДО "РШТ" Кулиев Т.Н.)](https://stepik.org/course/74286)
 
